@@ -1,0 +1,6316 @@
+﻿<catalog pnumber="006-D3481-60" file_version="1.60" language="ja_JP" display_name="" domain="legacy" direction="0" codepage="932">
+	<section name="default">
+		<entry handle="VICS_INFORMATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>VICS情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_FM_GRAPHIC_INFORMATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>FM図形情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_FM_TEXT_INFORMATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>FM文字情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_VICS_TITLE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>VICS</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_AUTO_SET_FREQUENCY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>自動</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_MANUAL_SET_FREQUENCY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>地域選択</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_MAP_SETTINGS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>FM表示設定</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_FREQUENCY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>周波数</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_SGNL_QLTY_GOOD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>良好</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_SGNL_QLTY_AVERAGE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>通常</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_SGNL_QLTY_BAD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>悪い</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_SGNL_QLTY_NONE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>信号無し</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_SCANNING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>受信中</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_DETAILED_INFORMATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>VICS詳細情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_FULL_RATE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>満車率</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_NUM_CARS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>台</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CAPACITY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>収容台数</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_FULL_STATUS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>満空</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_WAIT_TIME">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>待ち時間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_TYPE_SAPA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>SAPA</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_TYPE_NORMAL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>一般</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_EMPTY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>空車</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_MIX">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>混雑</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_FULL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>満車</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CLOSE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>閉鎖</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_UNKNOWN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>不明</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_TIME_INFORMATION_MINUTE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>分</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_TIME_INFORMATION_MINUTES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>分</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_TIME_INFORMATION_HOUR">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>時間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_TIME_INFORMATION_HOURS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>時間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_TIME_INFORMATION_TWENTY_FOUR_HOURS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>24時間営業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>料金</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_DOLLARS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>円</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_TYPE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>料金単位</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_TYPE_THIRTY_MIN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>30分</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_TYPE_ONE_HOUR">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>1時間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_TYPE_TWO_HOURS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>2時間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_TYPE_THREE_HOURS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>3時間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_TYPE_HALF_DAY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>半日</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_TYPE_ONE_DAY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>1日</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_CHARGE_TYPE_ONE_TIME">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>1回</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_HEIGHT_LIMITATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高さ制限</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_HEIGHT_LIMITATION_UNLIMITED">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>無し</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_HEIGHT_RESTRICTION_LIMITED">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>有り</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_VEHICLE_RESTRICTION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>車種制限</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_VEHICLE_RESTRICTION_UNRESTRICTED">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>無し</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_VEHICLE_RESTRICTION_OVERSIZE_RESTRICTION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大型制限</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_VEHICLE_RESTRICTION_NUMBER_THREE_RESTRICTION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>3ナンバー制限</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_PARKING_VEHICLE_RESTRICTION_OTHER_RESTRICTIONS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>その他の制限</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_EVENT_NOT_FOUND">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>見つかりません</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_EVENT_REASON">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>原因</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_EVENT_REGULATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_INFO_CONG_ORDINARY_ROAD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>一般道渋滞情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_INFO_CONG_HIGHWAY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高速道渋滞情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_INFO_FINE_ORDINARY_ROAD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>一般道順調情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_INFO_FINE_HIGHWAY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高速道順調情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_INFO_PARKINGLOT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>駐車場情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_INFO_RESTRICTION_ACCIDENT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>規制／事故情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_KEY_STATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>基幹局</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_RELAY_STATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中継局</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UNKNOWN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>不明</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UNKNOWN_NATURAL_CONGESTION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>自然渋滞</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UNKNOWN_INTENSIVE_TRF_CONGESTION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>交通集中渋滞</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UNKNOWN_WATCHING_TRF">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>見物・脇見渋滞</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UNKNOWN_OTHER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>その他</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACCIDENT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_VEHICLES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>車両事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_INJURY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>人身事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_PROPERTY_DAMAGE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>物損事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_SIDESLIP">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>横転事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CRUSH">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>衝突事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_COLLISION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>追突事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_MINOR_COLLISION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>接触事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_RIDES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>乗り上げ事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_BREAK">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>突破事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_SIDESLIP_ROLLOVER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>横転・転覆事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FALL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>転落事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FACILITY_COLLISION_CRUSH">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>施設接触・衝突事故</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_VEHICLES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>車両火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_ROADS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>路面火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_MEDIAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中央分離帯火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_TUNNEL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>トンネル火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_SHOULDER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>路肩火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_ROADSIDE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>沿道火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_SLOPED_SURFACE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>斜面火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_SLOPE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>法面火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_FIRE_ROADSIDE_FACILITY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>道路脇施設火災</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISABLES_VEHICLES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>故障車</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISABLES_TRUCK">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>パンク車両</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_OBSTACLES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>路上障害物</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_OBSTACLES_FALL_OBJ">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>落下物</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_LOAD_COLLAPSE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>荷崩れ</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_OBSTACLES_CLUTTER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>散乱物</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_OBSTACLES_EFFLUENT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>流出物</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_OBSTACLES_OIL_LEAK">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>オイル漏れ</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_OBSTACLES_ROAD_OBSTACLE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>道路障害</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_OBSTACLES_PEOPLE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>人</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ROAD_OBSTACLES_ANIMAL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>動物</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_ELEC">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>電気工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_GAS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>ガス工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_CANAL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>水道工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_PAVEMENT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>舗装工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_SIDEWALK">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>歩道工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_PHONE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>電話工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_SUBWAY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>地下鉄工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_SEWER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>下水道工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_SLOPE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>法面工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_BRIDGE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>架橋工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_ROAD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>道路工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_LANDSPACING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>造園工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_SIGNS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>標識工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_GUARDRAIL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>ガードレール工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_TRF_SAFETY_FAC">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>交通安全施設工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_TRF_MAN_FAC">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>交通管理施設工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_NOISE_BARRIER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>遮音壁工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_ACC_RECOVERY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>事故復旧工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_ACCIDENT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>災害工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_TUNNEL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>トンネル内設備工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_CAVE_ENTRANCE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>洞門工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_LIGHTING_FAC">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>照明設備工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_MARK_LANE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>レーンマーク工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_ROAD_INFRA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>道路施設工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_CONSTRUCTION_INTENSIVE_WORK">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>集中工事</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_STREET_FACILITY_CLEAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>道路施設清掃作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_TREE_CUTTING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>樹木の伐採</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_PLANTING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>植栽作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_WEEDING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>除草作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_SNOW_REMOVAL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>除雪作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_ANTIFREEZE_SPRAYING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>凍結防止剤散布作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_SLOPE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>法面作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_DRAINAGE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>排水作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_BRIDGE_REPAIR">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>橋架補修作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_TUNNEL_CLEAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>トンネル内清掃点検</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_LIGHTING_FAC_CLE_INSP">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>照明設備清掃点検</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_MARK_LANE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>レーンマーク作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_LOW_SPEED_VEHICLES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>低速車作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WORKING_INSPECT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>点検作業</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>行事等</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_POLICE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>御警衛</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_ENTERTAINMENTS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>催し物</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_PARADE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>パレード</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_FESTIVAL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>祭礼</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_DEMONSTRATION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>デモ</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_PEDESTRIAN_PARADISE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>歩行者天国</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_MARATHON">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>マラソン</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_EXHIBITION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>博覧会</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_GUARD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>警備</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_ACTION_GUARD_NATIONAL_TREA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>国賓来日に伴う警備</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>気象</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_SNOW">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>雪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_WIND_SNOW">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>風雪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_HEAVY_SNOW">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大雪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_BLIZZARD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>吹雪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_AVALANCHE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>雪崩</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_SNOWPACK">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>積雪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_FREEZE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>凍結</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_STRONG_WIND">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>強風</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_BEAM_WIND">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>横風</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_FOG">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>霧</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_THUNDER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>雷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_SHERBET">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>シャーベット</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_COMPACTED_SNOW">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>圧雪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_THUNDER_STORM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>雷雨</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_RAIN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>雨</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_WIND_RAIN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>風雨</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_HEAVY_RAIN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大雨</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_TYPHOON">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>台風</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_FLOOD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>洪水</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_RIVER_FLOOD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>河川氾濫</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_WAVES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>波浪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_TIDE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高潮</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_HIGH_WAVES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高波</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_CROSS_WAVE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>越波</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_TSUNAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>津波</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_ERUPTION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>噴火</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_MUDFLOWS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>土石流</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_COLLAPSE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>決壊</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_EARTHQUAKE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>地震</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_WEATHER_DRIFTING_SNOW">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>地吹雪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>災害</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_LANDSLIDE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>土砂崩れ</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_FALLING_ROCKS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>落石</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_FLOODED_ROAD">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>道路冠水</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_FLOODED">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>冠水</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_COLLAPSE_ROADS">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>道路陥没</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_ROADS_DAMAGE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>道路損壊</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_FALLEN_TREES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>倒木</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_GAS_EXPLOSION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>ガス爆発</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_GAS_LEAK">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>ガス漏れ</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_POWER_FAILURE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>停電</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_DISASTER_THUNDERBOLT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>落雷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ACC_EARTHQUAKE_WARNING_DECL">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>地震警戒宣言</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_BLOCKED">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>通行止</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_BLOCKED_NO_ENTRY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>進入禁止</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_BLOCKED_IN_WINTER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>冬期通行止</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LR">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>右左折規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LR_DIRECT_PROHIBITION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>直進禁止</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LR_LEFT_PROHIBITION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>左折禁止</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LR_RIGHT_PROHIBITION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>右折禁止</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LR_LEFT_RIGHT_PROHIBITION">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>右左折禁止</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>速度規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_TEN_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>10km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_TWENTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>20km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_THIRTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>30km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_FOURTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>40km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_FIFTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>50km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_SIXTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>60km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_SEVENTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>70km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_EIGHTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>80km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_NINETY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>90km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_ONE_HUNDRED_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>100km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_ONE_HUNDRED_TEN_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>110km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_ONE_HUNDRED_TWENTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>120km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_ONE_HUNDRED_THIRTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>130km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_SLOW">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>徐行</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SPEED_ONE_HUNDRED_FOURTY_KM">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>140km規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_ONE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>1車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_TWO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>2車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_THREE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>3車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_FOUR">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>4車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_FIVE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>5車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_SIX">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>6車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_SEVEN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>7車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_EIGHT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>8車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_FAST_LANE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>追越車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_ALL_LANE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>全車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_CLIMBING_LANE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>登坂車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_SHOULDER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>路肩規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_TRAVELING_ONE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>走行1</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_TRAVELING_TWO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>走行2</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_TRAVELING_ONE_AND_TWO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>走行1 + 走行2</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_TRAVELING_TWO_AND_FAST">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>走行2 + 追越し</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LANE_TRAVELING_ONE_CLIMBING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>登坂 + 走行1</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SIDE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>片側規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SIDE_ONE_WAY_ALTER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>片側交互通行</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SIDE_ONE_WAY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>片側通行</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_SIDE_TWO_WAY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>対面通行</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_CHAIN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>チェーン規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_CHAIN_CARRYING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>チェーン携行</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_CHAIN_NECESSARY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>チェーン必要</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_CHAIN_INSTALLING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>チェーン装着</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_CHAIN_NONSLID_CARRYING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>滑り止め携行</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_CHAIN_NONSLID_NECESSARY">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>滑り止め必要</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_CHAIN_NONSLID_INSTALLING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>滑り止め装着</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_ON_RAMP">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>オンランプ規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_ON_RAMP_ENTR_CLOSED">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>入口閉鎖</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_ON_RAMP_ENTR_RES">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>入口制限</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LARGE_CLOSURE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大型通行止</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LARGE_CAR_CLOSURE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大型車通行止め</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LARGE_SPECIAL_CLOSURE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大型特殊通行止め</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_LARGE_CARGO_CLOSURE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大型貨物通行止め</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>移動規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_ONE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>1車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_TWO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>2車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_THREE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>3車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_FOUR">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>4車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_FIVE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>5車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_SIX">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>6車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_SEVEN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>7車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_EIGHT">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>8車線規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_TOWARD_SHOULDER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>路肩寄り規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_MOVEMENT_TOWARD_CENTER">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>センタ寄り規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RES_OFF_RAMP">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>オフランプ規制</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAPPORO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>札幌</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAPPORO_ODORI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>札幌大通り</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OTARU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小樽</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IWANAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>岩内</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIMAMI_YOTEI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>南羊蹄</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIMAMAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>島牧</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ASHIBETSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>芦別</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UTASHINAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>歌志内</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YUBARI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>夕張</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YUBARI_SHIMIZUSAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>夕張清水沢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NISEKO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>ニセコ</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ASAHIKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>旭川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAYORO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>名寄</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIRIKOMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>知駒</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RUMOI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>留萌</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WAKKANAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>稚内</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ESASHI_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>枝幸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FURANO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>富良野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HABORO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>羽幌</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_REBUN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>礼文</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMIKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>上川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IKUTORA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>幾寅</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKAGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>深川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HAKODATE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>函館</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ESASHI_2">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>江差</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KITAHIYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>北檜山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OSHIMA_FUKUSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>渡島福島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OKUSHIRI_TAISEI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>奥尻大成</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MATSUMAE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>松前</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SATSUMAE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>札前</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日浦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MURORAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>室蘭</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_URAKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>浦河</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIZUNAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>静内</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NOBORIBETSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>登別</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIDAKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日高</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FURENAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>振内</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUROMATSUNAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>黒松内</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUSHIRO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>釧路</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKASHIBETSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中標津</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NEMURO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>根室</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RAUSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>羅臼</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TESHIKAGA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>弟子屈</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AKKESHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>厚岸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OBIHIRO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>帯広</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ASHORO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>足寄</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIROO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>広尾</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHINTOKU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>新得</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RIKUBETSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>陸別</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HONBETSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>本別</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KITAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>北見</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIN_KITAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>新北見</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MONBETSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>紋別</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKINOUE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>滝上</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ENGARU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>遠軽</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MARUSEPPU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>丸瀬布</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SENDAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>仙台</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NARUGO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>鳴子</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KESENNUMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>気仙沼</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIRAISHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>白石</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIZUGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>志津川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKUSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>福島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HARAMACHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>原町</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSUKIDATE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>月舘</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AIZUWAKAMATSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>会津若松</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAJIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>田島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIRAKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>白河</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHI_TADAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東只見</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TADAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>只見</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ONO_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHI_KANEYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東金山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HANAWA_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>塙</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IWAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>いわき</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOMIOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>富岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKOSO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>勿来</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NANGO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>南郷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YANAIZU_MISHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>柳津三島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NISHI_KANEYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西金山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAGATA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山形</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSURUOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>鶴岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAGAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>長井</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHINJO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>新庄</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OGUNI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小国</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIRATAKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>白鷹</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YONEZAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>米沢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ATSUMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>温海</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AKITA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>秋田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ODATE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大館</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YUZAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>湯沢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HANAWA_2">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>花輪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAZAWAKO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>田沢湖</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAKUNODATE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>角館</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUTATSUI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>二ツ井</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NOSHIRO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>能代</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HANAYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>花矢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ANI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>阿仁</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YASHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>矢島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHIYURI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東由利</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HONJO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>本荘</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MORIOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>盛岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMAISHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>釜石</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIYAKO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宮古</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NINOHE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>二戸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OFUNATO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大船渡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RIKUZENTAKATA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>陸前高田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMADA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ICHINOSEKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>一関</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OTSUCHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大槌</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TONO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>遠野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAWAUCHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>沢内</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YUDA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>湯田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IWAIZUMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>岩泉</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUZUMAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>葛巻</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TANEICHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>種市</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUDAI_TANOHATA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>普代田野畑</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NODA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>野田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AJIRO_TAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>安代田山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MURONE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>室根</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RIKUCHU_KAWAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>陸中川井</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NISHINE_MATSUO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西根松尾</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMAISHI_SUZUKO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>釜石鈴子</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IWATE_KAWASAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>岩手川崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AOMORI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>青森</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MUTSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>むつ</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMIKITA_EBOSHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>上北烏帽子</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKAURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>深浦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINAMI_AJIGASAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>南鰺ヶ沢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HACHINOHE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>八戸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOKYO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東京</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NIIJIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>新島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HACHIJO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>八丈</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YOKOHAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>横浜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ODAWARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小田原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAITAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>さいたま</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_CHICHIBU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>秩父</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_CHIBA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>千葉</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KATSUURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>勝浦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_CHOSHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>銚子</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TATEYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>館山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIRAHAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>白浜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MAEBASHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>前橋</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HARUNA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>榛名</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NUMATA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>沼田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TONE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>利根</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUSATSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>草津</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAGANOHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>長野原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SANBAGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>三波川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MANBA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>万場</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MITO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>水戸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HITACHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日立</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_DAIGO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大子</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KITA_IBARAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>北茨城</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UTSUNOMIYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宇都宮</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUZU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>葛生</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ASHIKAGA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>足利</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IMAICHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>今市</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ASHIO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>足尾</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIOBARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>塩原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KOFU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>甲府</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MITSUTOGE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>三ツ峠</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINOBU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>身延</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAGANO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>長野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KOUMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小海</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ZENKOJI_DAIRA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>善光寺平</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IIYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>飯山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOGURA_KAMIYAMADA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>戸倉上山田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KINASA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>鬼無里</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MURE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>牟礼</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAKAEMURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>栄村</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MATSUMOTO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>松本</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAGISO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>南木曽</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IIDA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>飯田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KISO_FUKUSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>木曽福島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHINANO_ANAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>信濃阿南</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KURAMOTO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>倉本</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TENRYU_HIRAOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>天竜平岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOYAMA_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>遠山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HAKUBA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>白馬</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OTARI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小谷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OKAYA_SUWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>岡谷諏訪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TATSUNO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>辰野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKATO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高遠</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIJIRI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>聖</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OSHIKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大鹿</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KISO_NARAKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>木祖楢川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>奈川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NIIGATA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>新潟</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMATO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大和</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKADA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AIKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>相川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ITOIGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>糸魚川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSUNAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>津南</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSUGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>津川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ECHIGOYUZAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>越後湯沢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MATSUDAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>松代</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NOU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>能生</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>府屋</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_RYOTSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>両津</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKACHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高千</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YASUZUKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>安塚</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KANAZAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>金沢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WAJIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>輪島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NANAO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>七尾</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SUZU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>珠洲</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMANAKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山中</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WAJIMA_MACHINO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>輪島町野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HAKUI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>羽咋</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOGI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>富来</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHIMONZEN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東門前</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKUI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>福井</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ONO_2">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSURUGA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>敦賀</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OBAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小浜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKAHAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高浜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIHAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>美浜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ECHIZEN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>越前</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>富山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UNAZUKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宇奈月</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAGOYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>名古屋</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOYOHASHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>豊橋</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHITARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>設楽</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIZUOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>静岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIMADA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>島田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ATAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>熱海</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_GOTENBA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>御殿場</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIMODA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>下田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHIIZU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東伊豆</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IZUNAGAOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>伊豆長岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIBAKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>芝川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAWAZU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>河津</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HAMAMATSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>浜松</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAKUMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>佐久間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHI_SAKUMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東佐久間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MISAKUBO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>水窪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKAKAWANE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中川根</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HARUNO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>春野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_GIFU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>岐阜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKATSUGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中津川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_GERO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>下呂</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_GUJO_HACHIMAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>郡上八幡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMIOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>神岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIDA_KANAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>飛騨金山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOKI_MINAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>土岐南</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OSAKA_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小坂</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宮</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>津</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OWASE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>尾鷲</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUMANO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>熊野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NABARI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>名張</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ISOBE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>磯部</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOBA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>鳥羽</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OMIYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大宮</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIYAGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宮川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WAUCHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>輪内</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OSAKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大阪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKA_NOSE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中能勢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KYOTO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>京都</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MAIZURU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>舞鶴</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIYAZU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宮津</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKUCHIYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>福知山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINEYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>峰山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KEIHOKU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>京北</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AYABE_YATSUAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>綾部八津合</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TANBA_MIYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>丹波美山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KOBE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>神戸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KASUMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>香住</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KINOSAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>城崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>八鹿</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WADAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>和田山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NISHIWAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西脇</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAWANISHIKITA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>川西北</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IKUNO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>生野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SASAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>篠山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIKAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>氷上</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NISHINOMIYA_YAMAGUCHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西宮山口</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MURAOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>村岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ONSEN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>温泉</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KITA_HANSHIN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>北阪神</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AWAJIMIHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>淡路三原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大屋</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIMEJI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>姫路</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AIOI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>相生</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAZAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AKO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>赤穂</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMIGORI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>上郡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAYO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>佐用</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ICHINOMIYA_AZUMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>一宮安積</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ICHINOMIYA_MIKATA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>一宮三方</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HAGA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>波賀</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_CHIKUSA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>千種</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WAKAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>和歌山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TANABE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>田辺</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_GOBO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>御坊</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHINGU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>新宮</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUSHIMOTO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>串本</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SUSAMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>すさみ</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HONGU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>本宮</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUDOYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>九度山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KII_SHIMIZU_NISHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>紀伊清水西</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OTSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大津</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SANTO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山東</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIGARAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>信楽</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>奈良</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UDA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宇陀</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOCHIHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>栃原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOTSUGAWA_OHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>十津川小原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MITSUE_TSUCHIYABARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>御杖土屋原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIMOKITAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>下北山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAZOE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山添</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NISHIYOSHINO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西吉野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TENKAWA_KAWAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>天川川合</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAWAKAMI_UNOKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>川上東川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHI_IKOMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東生駒</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIROSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>広島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKUYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>福山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KURE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>呉</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIYOSHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>三次</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAIJO_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西条</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OSAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AKI_CHIYODA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>安芸千代田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOJO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東城</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINAMI_KAKE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>南加計</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YOSHIDA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>吉田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAIJO_2">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西城</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOYOSAKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>豊栄</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SATO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>佐東</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ITSUKAICHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>五日市</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OASA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大朝</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUROSE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>黒瀬</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AKI_SAEKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>安芸佐伯</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUCHU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>府中</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKUYAMA_ZAO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>福山蔵王</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>三原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YUKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>油木</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_INNOSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>因島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SERA_KOZAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>世羅甲山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KONU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>甲奴</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KABE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>可部</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OKAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>岡山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSUYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>津山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KASAOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>笠岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKAHASHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高梁</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NIIMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>新見</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IBARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>井原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_BIZEN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>備前</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUSE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>久世</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YANAHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>柵原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MITSUISHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>三石</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WAKE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>和気</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KOJIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>児島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HINASE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日生</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HOKUBO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>北房</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TESSEI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>哲西</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UKAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>有漢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIMASAKA_KAMO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>美作加茂</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAGUCHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山口</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAGUCHI_TOYOURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山口豊浦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HOHOKU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>豊北</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HAGI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>萩</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOWA_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東和</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SUSA_TAMAGAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>須佐田万川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIMONOSEKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>下関</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAGUCHI_NISHIKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山口錦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UBE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宇部</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAGATO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>長門</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAGUCHI_TOYODA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山口豊田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YANAI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>柳井</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ATO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>阿東</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>美祢</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IWAKUNI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>岩国</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAGUCHI_KONOMINE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山口鴻ノ峯</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOTTORI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>鳥取</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_CHIZU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>智頭</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WAKASA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>若桜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MOCHIGASE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>用瀬</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IWAMI_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>岩美</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_CHIZU_YAMAGATA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>智頭山形</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HINO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YONAGO_NICHINAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>米子日南</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MATSUE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>松江</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IWAMI_2">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>石見</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OCHI_HAGIWARAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>邑智萩原山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HASUMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>羽須美</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HAMADA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>浜田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ODA_1">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSUWANO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>津和野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YOKOTA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>横田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NISHINOSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西ノ島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAIGO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>西郷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_DAITO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大東</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KISUKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>木次</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IWAMI_DAIWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>石見大和</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OCHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>邑智</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NICHIHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKAMATSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高松</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MATSUYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>松山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NIIHAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>新居浜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAHATAHAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>八幡浜</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UWAJIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宇和島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OZU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大洲</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINAMIUWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>南宇和</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KIKUMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>菊間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAWANOE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>川之江</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NOMURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>野村</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIROKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>城川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>久万</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ODA_2">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>小田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_JOHEN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>城辺</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>美川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OMISHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大三島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOKUSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>徳島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IKEDA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>池田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIWASA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日和佐</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMIYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>神山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ANAN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>阿南</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>阿波</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>美馬</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AWA_KATSUURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>阿波勝浦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHISHIKUI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宍喰</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_WAJIKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>鷲敷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ICHIU_KIRYU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>一宇剪宇</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ICHIU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>一宇</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMIKATSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>上勝</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHIIYAYAMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東祖谷山</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KOCHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高知</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOSA_SAGA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>土佐佐賀</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKAMURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中村</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SUSAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>須崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>佐川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SUKUMO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宿毛</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>安芸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOSA_CHO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>土佐町</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OTOYO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大豊</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOYONAGA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>豊永</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUBOKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>窪川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AGAWA_MURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>吾川村</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NIYODO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>仁淀</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKATOSA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中土佐</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MUROTO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>室戸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MONOBE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>物部</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOWA_2">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>十和</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MUROTO_MISAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>室戸岬</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOYO_NONE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東洋野根</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOSA_OTSUKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>土佐大月</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKUOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>福岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KURUME">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>久留米</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OMUTA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大牟田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KITA_KYUSHU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>北九州</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MOJI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>門司</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YUKUHASHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>行橋</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_CHIKUZEN_YAMADA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>筑前山田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIYAZAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宮崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NOBEOKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>延岡</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKACHIHO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>高千穂</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>串間</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IRIGO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>入郷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HYUGA_SAIGO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日向西郷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TOGO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東郷</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIIBA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>椎葉</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OITA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大分</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MIE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>三重</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAIKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>佐伯</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HITA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>日田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TSUKUMI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>津久見</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TAKETA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>竹田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>玖珠</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AJIMU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>安心院</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUNISAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>国東</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKATSU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>中津</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAMAE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>蒲江</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHI_KAMAE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東蒲江</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YAMAKUNI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>山国</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UME">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宇目</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HON_YABAKEI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>本耶馬溪</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUMAMOTO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>熊本</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HITOYOSHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>人吉</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINAMATA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>水俣</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_USHIBUKA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>牛深</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGO_OGUNI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>肥後小国</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ASO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>阿蘇</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINAMI_ASO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>南阿蘇</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_YABE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>矢部</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAWAURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>河浦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ASHIKITA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>芦北</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAKAMOTO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>坂本</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AMAKUSA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>天草</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ITSUKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>五木</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SOYO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>蘇陽</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SAGA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>佐賀</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIZEN_ARITA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>肥前有田</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAGASAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>長崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SASEBO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>佐世保</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MATSUURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>松浦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_FUKUE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>福江</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ISAHAYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>諫早</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OSETO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>大瀬戸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHI_NAGASAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東長崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_ARIKAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>有川</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MINAMI_ARIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>南有馬</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SHIMABARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>島原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIRADO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>平戸</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_UKU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>宇久</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_IZUHARA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>厳原</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_GONOURA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>郷ノ浦</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KAGOSHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>鹿児島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KANOYA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>鹿屋</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_MAKURAZAKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>枕崎</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_AKUNE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>阿久根</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_TANEGASHIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>種子島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KURINO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>栗野</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_SUEYOSHI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>末吉</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_HIGASHI_ICHIKI">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>東市来</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_OKINAWA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>沖縄</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_NAKIJIN">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>今帰仁</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_KUMEJIMA">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>久米島</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="TXT_VICS_USER_DEFINE">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>手動選局中</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_FREQUENCY_SETTING">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>放送局選局</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_EMERGECNY_INFO">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>緊急情報</visual>
+				</string>
+			</strings>
+		</entry>
+		<entry handle="VICS_MENU">
+			<usage visual="true"/>
+			<strings>
+				<string default="true">
+					<visual>目次</visual>
+				</string>
+			</strings>
+		</entry>
+	</section>
+</catalog>

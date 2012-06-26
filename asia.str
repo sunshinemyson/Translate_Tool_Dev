@@ -1,0 +1,1737 @@
+<catalog schema_version="0.9" language="en_US" display_name="American English" domain="ASIA" direction="0" codepage="1252" add_phonetics="false">
+  <entry handle="CROSS_DISTRICTS_SEARCH" translate="true" fixed_width="true">
+    <string>cross districts search</string>
+    <description>cross districts search</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="INTERSECTION_ROAD1_SEARCH" translate="true" fixed_width="true">
+    <string>search first road of intersection</string>
+    <description>search first road of intersection</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="INTERSECTION_ROAD2_SEARCH" translate="true" fixed_width="true">
+    <string>search second road of intersection</string>
+    <description>search second road of intersection</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SELECT_ROAD1" translate="true" fixed_width="true">
+    <string>select road 1</string>
+    <description>select road 1</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SELECT_ROAD2" translate="true" fixed_width="true">
+    <string>select road 2</string>
+    <description>select road 2</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="JAI_DB_ERROR" translate="true" fixed_width="true">
+    <string>JAI_DB_ERROR</string>
+    <description>JAI_DB_ERROR</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="GUIDE_TO_ROAD_CENTER" translate="true" fixed_width="true">
+    <string>guide to road center</string>
+    <description>guide to road center</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_ALLEY_LANE_NUMBER_NAME" translate="true" fixed_width="true">
+    <string>Enter lane, alley, house number</string>
+    <description>Enter lane, alley, house number</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PRESS_BUTTON_TO_SELECT_SEARCH_AREA" translate="true" fixed_width="true">
+    <string>Touch the upper right button to select search area</string>
+    <description>Touch the upper right button to select search area</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SELECT_SEARCH_AREA" translate="true" fixed_width="true">
+    <string>Select Search Area</string>
+    <description>Select Search Area</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_ROAD_NAME" translate="true" fixed_width="true">
+    <string>Enter Road</string>
+    <description>Enter Road</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_HOUSE_NUMBER" translate="true" fixed_width="true">
+    <string>Enter House Number</string>
+    <description>Enter House Number</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_PROVINCE_NAME" translate="true" fixed_width="true">
+    <string>Enter Province</string>
+    <description>Enter Province</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_CITY_NAME" translate="true" fixed_width="true">
+    <string>Enter City</string>
+    <description>Enter City</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_DISTRICT_NAME" translate="true" fixed_width="true">
+    <string>Enter District / County</string>
+    <description>Enter District / County</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_FIRST_ROAD_NAME" translate="true" fixed_width="true">
+    <string>Enter first road name</string>
+    <description>Enter first road name (For intersection search)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_SECOND_ROAD_NAME" translate="true" fixed_width="true">
+    <string>Enter second road name</string>
+    <description>Enter second road name (For intersection search)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="NO_MATCH_ROAD_WAS_FOUND" translate="true" fixed_width="true">
+    <string>No match road was found</string>
+    <description>No match road was found (For intersection search)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="NO_INTERSECTION_WAS_FOUND" translate="true" fixed_width="true">
+    <string>No intersection was found</string>
+    <description>No intersection was found (For intersection search)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FIND_QSPELL" translate="true" fixed_width="true">
+    <string>Quick Spell</string>
+    <description>QuickSpell button label</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FIND_RESTROOM" translate="true" fixed_width="true">
+    <string>Restroom</string>
+    <description>Restroom button label</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_RESIDENCE" translate="true" fixed_width="true">
+    <string>Residence</string>
+    <description>Residence button label</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_3C" translate="true" fixed_width="true">
+    <string>3C Shopping</string>
+    <description>3C button label</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_1000" translate="true" fixed_width="true">
+    <string>1000 Company</string>
+    <description>1000 Company button label</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_POI_BANKS_THAI" translate="true" fixed_width="true">
+    <string>Banks</string>
+    <description>Banks for Thai</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_POI_ATMS_THAI" translate="true" fixed_width="true">
+    <string>ATMs</string>
+    <description>ATMs for Thai</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_POI_CDG_GUIDE_THAI" translate="true" fixed_width="true">
+    <string>CDG Guide</string>
+    <description>CDG Guide for Thai</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_POI_INTERSECTION_NAME_THAI" translate="true" fixed_width="true">
+    <string>Intersection Name</string>
+    <description>Intersection name for Thai</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_ALL_RESIDENCE" translate="true" fixed_width="true">
+    <string>ALL Residence</string>
+    <description>ALL Residence button label</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="RESIDENCE_BUILDING" translate="true" fixed_width="true">
+    <string>Buildings</string>
+    <description>POI category Buildings</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="RESIDENCE_RESIDENCE" translate="true" fixed_width="true">
+    <string>Residences</string>
+    <description>POI category residence</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="MAP_LOCATION" translate="true" fixed_width="true">
+    <string>Location</string>
+    <description>Back button holding action</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="BACK_BUTTON_HOLD_ACTION" translate="true" fixed_width="true">
+    <string>Back button holding action</string>
+    <description>Back button holding action</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="BACK_BUTTON_HOLD_ACTION_MAIN_MENU" translate="true" fixed_width="true">
+    <string>Back to main menu</string>
+    <description>Hold back button back to main menu</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="BACK_BUTTON_HOLD_ACTION_MAP_PAGE" translate="true" fixed_width="true">
+    <string>Back to map page</string>
+    <description>Hold back button back to map page</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ENTER_PHONE_NUMBER" translate="true" fixed_width="true">
+    <string>&lt;Enter Phone Number&gt;</string>
+    <description>prompt text for phone number search</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PHONE_NUMBER_INPUT_MORE" translate="true" fixed_width="true">
+    <string>Please add area code or input more digits</string>
+    <description>User should input more information to search</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PHONE_NUMBER_REPRESENTATIVE_REVIEW" translate="true" fixed_width="true">
+    <string>Do you want to review map around\n%1?</string>
+    <description>Review representative poistion if no matches found or too many records found</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PHONE_NUMBER_TOO_MANY_RECORDS" translate="true" fixed_width="false">
+    <string>Too Many Records Found.</string>
+    <description>Found too many records for this phone number.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="QSI_JPN_ENTER_NAME" translate="true" fixed_width="true">
+    <string>Enter Name</string>
+    <description>prompt text for japan quick search</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ALL_BRANDS" translate="true" fixed_width="true">
+    <string>All brands</string>
+    <description>for brand name search</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="NONE_DISPLAY" translate="true" fixed_width="true">
+    <string>None Display</string>
+    <description>select none in poi filter</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="BUTTON_NONE_DISPLAY" translate="true" fixed_width="true">
+    <string>None Display</string>
+    <description>Button show none category</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PRESS_BUTTON_TO_SET_POI_ICON" translate="true" fixed_width="true">
+    <string>Press button to set a POI icon displayed on the map.</string>
+    <description>the japan poi filter main title</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="MAP_AREA" translate="true" fixed_width="true">
+    <string>Area</string>
+    <description>Current Area label for China (coordinate hidden)</description>
+  </entry>
+  <entry handle="WHERE_AM_I_SETTING" translate="true" fixed_width="true">
+    <string>Setting - Press button to select new category</string>
+    <description>WhereAmI Page Toolbar Text</description>
+  </entry>
+  <entry handle="WHERE_AM_I_CHANGE" translate="true" fixed_width="true">
+    <string>Change</string>
+    <description>WhereAmI Page Toolbar Text</description>
+  </entry>
+  <entry handle="SEARCH_BY_DISTANCE" translate="true" fixed_width="true">
+    <string>Oversea POI Search</string>
+    <description>for japan oversea search to search poi</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="NEAR_SEARCH" translate="true" fixed_width="true">
+    <string>Near search</string>
+    <description>Near search of current review item</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PRESS_FOR_MORE" translate="true" fixed_width="true">
+    <string>Press for more</string>
+    <description>hint text for map bubble</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PRESS_FOR_LIST" translate="true" fixed_width="true">
+    <string>Press for list</string>
+    <description>hint text for map bubble</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FIND_POI_PUBLIC_RESTROOM" translate="true" fixed_width="true">
+    <string>Public Restroom</string>
+    <description>Find public restroom</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FIND_POI_BUILDING_RESIDENCE" translate="true" fixed_width="true">
+    <string>Building, Residence</string>
+    <description>Find building and residence</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="POSITION" translate="true" fixed_width="true">
+    <string>Position</string>
+    <description>Label of position</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FIND_INTERSECTION_NAME" translate="true" fixed_width="true">
+    <string>Intersection</string>
+    <description>Label intersection name POI category</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="QSPELL_RESULT" translate="true" fixed_width="true">
+    <string>Result: </string>
+    <description>Label for Quick Spell Search Result</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="QSPELL_SELECT_CATEGORY" translate="true" fixed_width="true">
+    <string>Category</string>
+    <description>Label for Quick Spell Search Category Selection</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="QSPELL_SELECT_CITY" translate="true" fixed_width="true">
+    <string>City</string>
+    <description>Label for Quick Spell Search City Selection</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="FIND_GO_OFFICE" translate="true" fixed_width="true">
+    <string>Go To Office</string>
+    <description>Find menu search item.</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="SET_OFFICE_LOCATION" translate="true" fixed_width="true">
+    <string>Set Office Location</string>
+    <description>Button - set home location</description>
+  </entry>
+  <entry handle="FIND_OFFICE_ALREADY_SET" translate="true" fixed_width="true">
+    <string>Office Location Already Exists</string>
+    <description>Title bar text when the Office location has been set also spoken when using speech rec</description>
+  </entry>
+  <entry handle="FIND_OFFICE_ENTER_ADDRESS" translate="true" fixed_width="true">
+    <string>Enter My Address</string>
+    <description>Button - Enter an address for the Office location</description>
+  </entry>
+  <entry handle="FIND_OFFICE_FROM_RECENTLY_FOUND" translate="true" fixed_width="true">
+    <string>Recently Found</string>
+    <description>Button - Select Office location from the Recently Found page</description>
+  </entry>
+  <entry handle="FIND_OFFICE_NOT_SET" translate="true" fixed_width="true">
+    <string>Set Office Location</string>
+    <description>Title bar text when the Office location hasn&apos;t been set and is also spoken when using speech rec</description>
+  </entry>
+  <entry handle="FIND_OFFICE_USE_LOCATION" translate="true" fixed_width="true">
+    <string>Use My Current Location</string>
+    <description>Button - Use the current location as the Office location</description>
+  </entry>
+  <entry handle="OFFICE_WPT_ID" translate="true" fixed_width="true">
+    <string>Office</string>
+    <description>Name of the Office waypoint</description>
+  </entry>
+  <entry handle="ASR_PHONEMENU_CALLOFFICE" translate="true" fixed_width="true">
+    <string>Call Office</string>
+    <description>Phone menu list item - makes call to the default office number set</description>
+  </entry>
+  <entry handle="ALL_MEDICAL_SERVICE" translate="true" fixed_width="true">
+    <string>ALL Medical Services</string>
+    <description>List button identifying that the user wants to view medical services across all categories</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SHOW_ALL" translate="true" fixed_width="true">
+    <string>Show All</string>
+    <description>Advanced POI filter</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SHOW_SOME" translate="true" fixed_width="true">
+    <string>Show Some</string>
+    <description>Advanced POI filter</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SHOW_NONE" translate="true" fixed_width="true">
+    <string>Hide All</string>
+    <description>Advanced POI filter</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="ALL" translate="true" fixed_width="true">
+    <string>ALL</string>
+    <description>Show all or show none</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="POI_FLTR" translate="true" fixed_width="true">
+    <string>POI Icon</string>
+    <description>POI filter page title</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TXT_PRFCTR_CITY" translate="true" fixed_width="true">
+    <string>House Number</string>
+    <description>Taiwan house number search</description>
+  </entry>
+  <entry handle="FIND_TW_PREP" translate="true" fixed_width="true">
+    <string>Prefecture</string>
+    <description>Find menu search item.</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="TXT_PRFCTR_REGION" translate="true" fixed_width="true">
+    <string>REGION</string>
+    <description>System Settings</description>
+  </entry>
+  <entry handle="TXT_PRFCTR_PREFECTURE" translate="true" fixed_width="true">
+    <string>PREFECTURE</string>
+    <description>System Settings</description>
+  </entry>
+  <entry handle="FIND_PRFCTR_CITY_NAME" translate="true" fixed_width="true">
+    <string>Enter prefecture or city name</string>
+    <description>Enter prefecture or city name</description>
+  </entry>
+  <entry handle="FIND_CITY_NAME" translate="true" fixed_width="true">
+    <string>Enter city name</string>
+    <description>Enter city name</description>
+  </entry>
+  <entry handle="FIND_ROAD" translate="true" fixed_width="true">
+    <string>Enter road name</string>
+    <description>Enter road name</description>
+  </entry>
+  <entry handle="PRFCTR_SPELL" translate="true" fixed_width="true">
+    <string>Spell</string>
+    <description>Spell button name</description>
+  </entry>
+  <entry handle="PREFECTURE_CITY" translate="true" fixed_width="true">
+    <string>Within A Prefecture City</string>
+    <description>Find near option</description>
+  </entry>
+  <entry handle="DIFFERENT_PREFECTURE" translate="true" fixed_width="true">
+    <string>Within A Different Prefecture</string>
+    <description>Find near option</description>
+  </entry>
+  <entry handle="NOTHING" export="true" log-width="true">
+    <string>Nothing</string>
+    <description>nothing</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="TOTAL_N" export="true" log-width="true">
+    <string>Total %d items</string>
+    <description>more than</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="MORE_THAN_N" export="true" log-width="true">
+    <string>More than %d</string>
+    <description>more than n</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="MATCHING_ITMES" export="true" log-width="true">
+    <string>Matching Items</string>
+    <description>Matching Items</description>
+    <output-file>GUI_Handle.hpp</output-file>
+    </entry>
+  <entry handle="SEARCH_IN_PROGRESS" export="true" log-width="true">
+    <string>Search in progress</string>
+    <description>Search in progress</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="INTERSECTION" translate="true" fixed_width="true">
+    <string>intersection</string>
+    <description>Used for intersection search in PageFindPrefecture</description>
+  </entry>
+  <entry handle="AND" translate="true" fixed_width="true">
+    <string>and</string>
+    <description>and</description>
+  </entry>
+  <entry handle="CITY" translate="true" fixed_width="true">
+    <string>city</string>
+    <description>city</description>
+  </entry>
+  <entry handle="NON_REGIONALIZED" translate="true" fixed_width="true">
+    <string>non-regionalized</string>
+    <description>non-regionalized</description>
+  </entry>
+  <entry handle="SEARCH_ALL_CITIES" translate="true" fixed_width="true">
+    <string>search for all cities</string>
+    <description>search for all cities</description>
+  </entry>
+  <entry handle="COUNTY" translate="true" fixed_width="true">
+    <string>county</string>
+    <description>county</description>
+  </entry>
+  <entry handle="SEARCH_IN_PROGESS" translate="true" fixed_width="true">
+    <string>search in progress</string>
+    <description>search in progress</description>
+  </entry>
+  <entry handle="ADDR_NUMBER_SEARCH" translate="true" fixed_width="true">
+    <string>address number search</string>
+    <description>address number search</description>
+  </entry>
+  <entry handle="ROAD_SEARCH" translate="true" fixed_width="true">
+    <string>road search</string>
+    <description>road search</description>
+  </entry>
+  <entry handle="ROAD_SEARCH_PROMPT" translate="true" fixed_width="true">
+    <string>road search prompt</string>
+    <description>road search prompt</description>
+  </entry>
+  <entry handle="ALL_COUNTY" translate="true" fixed_width="true">
+    <string>All county</string>
+    <description>All county</description>
+  </entry>
+  <entry handle="ALL_ROAD_SEARCH" translate="true" fixed_width="true">
+    <string>all road search</string>
+    <description>all road search</description>
+  </entry>
+  <entry handle="MAIN_RTE_DEMO" translate="true" fixed_width="true">
+    <string>Route Demo</string>
+    <description>icon name of demo route function</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="FIND_CH_PREF" translate="true" fixed_width="true">
+    <string>Prefecture</string>
+    <description>Find menu item.</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="FULL_SEARCH" translate="true" fixed_width="false">
+    <string>Full Search</string>
+    <description>full search</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FUZZY_SEARCH" translate="true" fixed_width="false">
+    <string>Fuzzy Search</string>
+    <description>fuzzy search</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FIND_EXITS" translate="true" fixed_width="false">
+    <string>Exits</string>
+    <description>Find menu search item.</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="CHANGE_HWY" translate="true" fixed_width="false">
+    <string>Highway</string>
+    <description>Button - User clicks here to select exit road</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="MULTI_ENTRY" translate="true" fixed_width="false">
+    <string>Entry</string>
+    <description>Label of Entry button for Multi-entry POI.</description>
+  </entry>
+  <entry handle="JUNCTION_VIEW" translate="true" fixed_width="false">
+    <string>Junction view</string>
+    <description>Label of junction view button in PageTurnReview</description>
+  </entry>
+  <entry handle="MAIN_MENU_ASR_BTN" translate="true" fixed_width="true">
+    <string>ASR</string>
+    <description>Button - tools menu</description>
+    <output-file>GUI_HandleMainMenu.hpp</output-file>
+  </entry>
+    <entry handle="AREA_LIMITED" export="true" log-width="true">
+    <string>(Area Limited)</string>
+    <description>Area Limited</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="GARMIN_MODE" translate="true" fixed_width="true">
+    <string>Garmin mode</string>
+    <description>UMS mode prompt</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="MASS_STORAGE_MODE" translate="true" fixed_width="true">
+    <string>Mass Storage Mode</string>
+    <description>UMS mode prompt</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="USB_DETECTED" translate="true" fixed_width="true">
+    <string>USB detected</string>
+    <description>UMS mode prompt</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SIMULATOR_JUMP" translate="true" fixed_width="true">
+    <string>Jump</string>
+    <description>Prompt for user to start simulator from this guidance point</description>
+  </entry>
+  <entry handle="SET_START_PARKING_LOCATION" export="true" log-width="true">
+    <string>You might be in an indoor parking lot. Please choose an entry</string>
+    <description>Prompt for the user to set their start parking lot when GPS is unavailable</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DIRECTLY_GO" export="true" log-width="true">
+    <string>Go Directly</string>
+    <description>Prompt for the user to bypass parking lot selection and just go</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="START_PARKING_LOT" export="true" log-width="true">
+    <string>OK</string>
+    <description>Prompt for the user to start parking lot mode</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="IGNORE" export="true" log-width="true">
+    <string>Ignore</string>
+    <description>Prompt for the user to start parking lot mode</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DESC_POI_TIP" translate="true" fixed_width="false">
+    <string>Additional description is provided for POI with icon. Please enter POI page to view description.</string>
+    <description>notify user the descriptive POI function</description>
+  </entry>
+  <entry handle="SELECT_PROXIMITY_ALERTS_TYPE" translate="true" fixed_width="false">
+    <string>Alert type selection</string>
+    <description>Select alert type by user.</description>
+  </entry>
+  <entry handle="PRX_SPEED_CAMERA" translate="true" fixed_width="false">
+      <string>Speed camera</string>
+      <description>Speed camera</description>
+  </entry>
+    <entry handle="PRX_KEEP_DISTANCE" translate="true" fixed_width="false">
+      <string>Keep distance</string>
+      <description>Keep distance</description>
+   </entry>
+    <entry handle="PRX_TOLL" translate="true" fixed_width="false">
+     <string>Toll gate</string>
+      <description>TOLL gate</description>
+   </entry>
+    <entry handle="PRX_REST_AREA" translate="true" fixed_width="false">
+      <string>Rest area</string>
+      <description>Rest area</description>
+    </entry>
+    <entry handle="PRX_TUNNEL" translate="true" fixed_width="false">
+        <string>Tunnel</string>
+      <description>Tunnel</description>
+    </entry>
+    <entry handle="PRX_TRAFFIC_VIOLATION_CAMERA" translate="true" fixed_width="false">
+        <string>Traffic violation camera</string>
+      <description>Traffic violation camera</description>
+	</entry>
+    <entry handle="PRX_RED_LIGHT_CAMERA" translate="true" fixed_width="false">
+        <string>Red light camera</string>
+      <description>Red light camera</description>
+    </entry>
+    <entry handle="PRX_TRAFFIC_LIGHT_CAMERA" translate="true" fixed_width="false">
+        <string>Traffic light camera</string>
+      <description>Traffic light camera</description>
+    </entry>
+    <entry handle="PRX_MOBILE_SPEED_CAMERA" translate="true" fixed_width="false">
+       <string>Mobile speed camera</string>
+      <description>Mobile speed camera</description>
+    </entry>
+    <entry handle="PRX_TRAFFIC_FLOW_CAMERA" translate="true" fixed_width="false">
+      <string>Traffic flow camera</string>
+      <description>Traffic flow camera</description>
+    </entry>
+    <entry handle="PRX_TURN_CAMERA" translate="true" fixed_width="false">
+     <string>Turn camera</string>
+      <description>Turn camera</description>
+    </entry>
+    <entry handle="PRX_RADAR_SPEED_CAMERA" translate="true" fixed_width="false">
+        <string>Radar speed camera</string>
+		<description>Radar speed camera</description>
+    </entry>
+    <entry handle="PRX_HWY_ENTRY_CAMERA" translate="true" fixed_width="false">
+        <string>Highway entry camara</string>
+      <description>High way entry camera</description>
+    </entry>
+    <entry handle="PRX_BUS_LANE_CAMERA" translate="true" fixed_width="false">
+        <string>Bus lane camera</string>
+      <description>Bus lane camera</description>
+    </entry>
+    <entry handle="PRX_ONE_WAY_CAMERA" translate="true" fixed_width="false">
+        <string>One way camera</string>
+      <description>One way camera</description>
+    </entry>
+    <entry handle="PRX_OTHER_CAMERA" translate="true" fixed_width="false">
+        <string>Other camera</string>
+      <description>Other camera</description>
+    </entry>
+    <entry handle="PRX_LANE_DECREASE" translate="true" fixed_width="false">
+        <string>Lane decrease</string>
+      <description>Lane decrease</description>
+    </entry>
+    <entry handle="PRX_ROCK_FALL" translate="true" fixed_width="false">
+        <string>Rock fall</string>
+      <description>Rock fall</description>
+    </entry>
+    <entry handle="PRX_CAUTION_PED" translate="true" fixed_width="false">
+        <string>Caution pedestrian</string>
+      <description>Caution pedestrian</description>
+    </entry>
+    <entry handle="PRX_CAUTION_BUMP" translate="true" fixed_width="false">
+        <string>Caution bump</string>
+      <description>Caution bump</description>
+    </entry>
+    <entry handle="PRX_CAUTION_SLOPE" translate="true" fixed_width="false">
+        <string>Caution slope</string>
+      <description>Caution slope</description>
+    </entry>
+    <entry handle="PRX_CAUTION_RAILROAD_INTERSECTION" translate="true" fixed_width="false">
+        <string>Caution railroad intersection</string>
+      <description>Caution railroad intersection</description>
+    </entry>
+    <entry handle="PRX_CAUTION_SLIP" translate="true" fixed_width="false">
+        <string>Caution slipping road</string>
+      <description>Caution slipping road</description>
+    </entry>
+    <entry handle="PRX_CAUTION_SAFTY" translate="true" fixed_width="false">
+        <string>Caution safty</string>
+      <description>Caution slipping road</description>
+    </entry>
+    <entry handle="PRX_CAUTION_NATURE_GUID" translate="true" fixed_width="false">
+        <string>Caution natural guidance</string>
+      <description>Caution slipping road</description>
+    </entry>
+    <entry handle="RTE_PREFERENCE_HWY_1" translate="true" fixed_width="false">
+    <string>Prefer Nat'l Freeway No.1</string>
+    <description>Highway preference in Taiwan</description>
+  </entry>
+  <entry handle="RTE_PREFERENCE_HWY_3" translate="true" fixed_width="false">
+    <string>Prefer Nat'l Freeway No.3</string>
+    <description>Highway preference in Taiwan</description>
+  </entry>
+  <entry handle="FIND_TRAVEL_GUIDE" translate="true" fixed_width="true">
+    <string>Travel Guide</string>
+    <description>Find menu search item.</description>
+  </entry>
+    <entry handle="FIND_GRM_ONLINE" translate="true" fixed_width="true">
+    <string>Garmin Online</string>
+    <description>Find menu search item</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="FIND_GEO_NEWS" translate="true" fixed_width="true">
+    <string>Geo News</string>
+    <description>Find menu search item</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="FIND_MOVIES" translate="true" fixed_width="true">
+    <string>Movies</string>
+    <description>Find menu search item</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="NO_ONLINE_DATA_LOADED" translate="true" fixed_width="true">
+    <string>No Garmin Online loaded. For details, visit \nmy.garmin.com.tw/connect</string>
+    <description>Confirmation text indicating that no Garmin Onlinw(TW) were loaded</description>
+  </entry>
+  <entry handle="ALL_TRAVEL_GUIDES" translate="true" fixed_width="true">
+    <string>All Travel Guides</string>
+    <description>placeholder for PageFindGpiList</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="BUILDING_INDEX" translate="true" fixed_width="true">
+    <string>Building index for GPI files, please wait</string>
+    <description>notify user that gpi index is being created</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PARTIAL_BUILDING_INDEX" translate="true" fixed_width="true">
+    <string>Index file incomplete, few travel guides may not be displayed</string>
+    <description>notify user that gpi index in not completely created</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FAIL_BUILDING_INDEX" translate="true" fixed_width="true">
+    <string>Fail to Build index file</string>
+    <description>notify user that gpi index in not completely created</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FAIL_BUILDING_INDEX_DISK_FULL" translate="true" fixed_width="true">
+    <string>Fail to Build index file, disk full</string>
+    <description>notify user that gpi index in not completely created because disk is full</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FAIL_BUILDING_INDEX_NO_GPI" translate="true" fixed_width="true">
+    <string>Fail to Build index file, can't find gpi files in system</string>
+    <description>notify user that gpi index in not completely created because no gpi files are found</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="FIND_3C_SHOP" translate="true" fixed_width="true">
+    <string>3C SHOP</string>
+    <description>Find 3C POIs</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="FIND_COMPANY1000" translate="true" fixed_width="true">
+    <string>1000 Company</string>
+    <description>Find company 1000 POIs</description>
+    <output-file>GUI_HandleFindPOI.hpp</output-file>
+  </entry>
+  <entry handle="PROMPT_RESULT_MATCH" export="true" log-width="true">
+    <string>   Result : %d match</string>
+    <description>for SYC_RESULT_COUNT_SUPPORT</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="PROMPT_RESULT_MORE" export="true" log-width="true">
+    <string>   Result : more than %d</string>
+    <description>for SYC_RESULT_COUNT_SUPPORT</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="LANG_VOICE_PLAY" translate="true" fixed_width="true">
+    <string>Play</string>
+    <description>language voice play</description>
+  </entry>
+  <entry handle="GPS_MODE" translate="true" fixed_width="true">
+    <string>GPS Mode</string>
+    <description>GPS settings title</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="GPS_ON" translate="true" fixed_width="true">
+    <string>Normal</string>
+    <description>GPS settings On</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="GPS_OFF" translate="true" fixed_width="true">
+    <string>GPS off</string>
+    <description>GPS settings Off</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="GPS_WAAS" translate="true" fixed_width="true">
+    <string>MSAS/WAAS</string>
+    <description>GPS settings WASS</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TRUCK" translate="true" fixed_width="true">
+    <string>Truck</string>
+    <description>Truck usage mode</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SCOOTER" translate="true" fixed_width="true">
+    <string>Scooter</string>
+    <description>Scooter usage mode</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="UNITS_LEVEL_GROUND_ABRV" translate="true" fixed_width="true">
+    <string>level ground</string>
+    <description>level ground</description>
+  </entry>
+  <entry handle="UNITS_LEVEL_GROUND_1" translate="true" fixed_width="true">
+    <string>level ground</string>
+    <description>level ground</description>
+  </entry>
+    <entry handle="TRP_CMPTR_TURN_IN_TIME" translate="true" fixed_width="true">
+    <string>Turn In</string>
+    <description>Trip computer turn in time display</description>
+  </entry>
+  <entry handle="TRP_CMPTR_ARRIVE_IN_TIME" translate="true" fixed_width="true">
+    <string>Arrive In</string>
+    <description>Trip computer arrive time display</description>
+  </entry>
+  <entry handle="FIND_PHONE_NUMBER" translate="true" fixed_width="true">
+    <string>Phone Number</string>
+    <description>Find by Phone Number.</description>
+    <output-file>GUI_HandleWhereTo.hpp</output-file>
+  </entry>
+  <entry handle="PHONE_NUMBER_LOCATION_FAILED" translate="true" fixed_width="false">
+    <string>Cannot find a location for this phone number.</string>
+    <description>Cannot find a location for this phone number.</description>
+  </entry>
+  <entry handle="PHONE_NUMBER_SEARCH_FAILED" translate="true" fixed_width="false">
+    <string>Cannot find a phone number for this location.</string>
+    <description>Cannot find a phone number for this location.</description>
+  </entry>
+  <entry handle="SIMULATE" translate="true" fixed_width="false">
+    <string>Simulating Go</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SELECT_START_END_POINTS" translate="true" fixed_width="false">
+    <string>Select Start and Destination Points</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="START_SIMULATE" translate="true" fixed_width="false">
+    <string>Start Simulator GO</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SIMULATOR_ROUTE_START_POINT" translate="true" fixed_width="false">
+    <string>Start Point</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SIMULATOR_ROUTE_DESTINATION" translate="true" fixed_width="false">
+    <string>Destination</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="DETOUR_ONE_KM" translate="true" fixed_width="false">
+    <string>Next 1 KM on Route</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DETOUR_THREE_KM" translate="true" fixed_width="false">
+    <string>Next 3 KM on Route</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DETOUR_FIVE_KM" translate="true" fixed_width="false">
+    <string>Next 5 KM on Route</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV" translate="true" fixed_width="false">
+    <string>TV</string>
+    <description>analog tv text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DRIVING_RECORDER" translate="true" fixed_width="false">
+    <string>Driving Recorder</string>
+    <description>driving recorder text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="MAP_FLICK" export="true" log-width="true" fixed_width="false">
+     <string>MAP FLICK</string>
+    <description>Label for map flick switch setting</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TXT_h_ddd_ddddd" translate="true" fixed_width="false">
+    <string>h_ddd_ddddd</string>
+    <description>Coordinates format</description>
+  </entry>
+  <entry handle="TXT_h_ddd_mm_mmm" translate="true" fixed_width="true">
+    <string>h_ddd_mm_mmm</string>
+    <description>Coordinates format</description>
+  </entry>
+  <entry handle="TXT_h_ddd_mm_ss_s" translate="true" fixed_width="true">
+    <string>h_ddd_mm_ss_s</string>
+    <description>Coordinates format</description>
+  </entry>
+  <entry handle="TV_WARNING_TEXT" translate="true" fixed_width="false">
+    <string>Do not attempt to enter TV page while driving. Failure to pay full attention to the operation of your vehicle could result in death, serious injury, or property damage. You assume total responsibility and risk for using this device.</string>
+    <description>The warning displayed to the user while entering TV page</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_PREPARE" translate="true" fixed_width="false">
+    <string>Preparing TV</string>
+    <description>TV player is initializing</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_WEAK_SIGNAL" translate="true" fixed_width="false">
+    <string>The selected channel's signal is weak\nPlease wait</string>
+    <description>signal is weak</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REMAIN_AUDIO" translate="true" fixed_width="false">
+    <string>Keep Audio On</string>
+    <description>Leave TV page but keep audio on</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_TURN_OFF" translate="true" fixed_width="false">
+    <string>Turn off TV</string>
+    <description>Turn off TV</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION" translate="true" fixed_width="false">
+    <string>Region</string>
+    <description>TV region</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_CHINA" translate="true" fixed_width="false">
+    <string>China</string>
+    <description>TV region is China</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_INDIA" translate="true" fixed_width="false">
+    <string>India</string>
+    <description>TV region is India</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_INDONESIA" translate="true" fixed_width="false">
+    <string>Indonesia</string>
+    <description>TV region is Indonesia</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_MALAYSIA" translate="true" fixed_width="false">
+    <string>Malaysia</string>
+    <description>TV region is Malaysia</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_PHILIPPINES" translate="true" fixed_width="false">
+    <string>Philippines</string>
+    <description>TV region is Philippines</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_SINGAPORE" translate="true" fixed_width="false">
+    <string>Singapore</string>
+    <description>TV region is Singapore</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_VIETNAM" translate="true" fixed_width="false">
+    <string>Vietnam</string>
+    <description>TV region is Vietnam</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_TAIWAN" translate="true" fixed_width="false">
+    <string>Taiwan</string>
+    <description>TV region is Taiwan</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REGION_THAILAND" translate="true" fixed_width="false">
+    <string>Thailand</string>
+    <description>TV region is Thailand</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_CHANNEL_SCAN" translate="true" fixed_width="false">
+    <string>Channel Scan</string>
+    <description>scann channel</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_CHANNEL_SCANNING" translate="true" fixed_width="false">
+    <string>Channel Scanning...</string>
+    <description>Page is scanning channel now</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_FOUND" translate="true" fixed_width="false">
+    <string>Found</string>
+    <description>string Found</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_NO_AVAILABLE_CHANNEL" translate="true" fixed_width="false">
+    <string>No available channel.\nPlease scan channel again.</string>
+    <description>no available channel</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_CHANNEL" translate="true" fixed_width="false">
+    <string>channel(s).</string>
+    <description>string channel(s)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_VOLUME_WARNING" translate="true" fixed_width="false">
+    <string>Because driving recorder is active, the max volume is 30%</string>
+    <description>tv volume warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_CHANNEL_LIST" translate="true" fixed_width="false">
+    <string>Channel List</string>
+    <description>channel list</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_GUIDE" translate="true" fixed_width="false">
+    <string>TV Guide</string>
+    <description>tv guide</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_SETTINGS" translate="true" fixed_width="false">
+    <string>TV Settings</string>
+    <description>tv settings</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_WATCH" translate="true" fixed_width="false">
+    <string>Watch</string>
+    <description>Watch</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_PROGRAM_SCHEDULE" translate="true" fixed_width="false">
+    <string>Schedule</string>
+    <description>program schedule</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_PROGRAM_DESCRIPTION" translate="true" fixed_width="false">
+    <string>Description</string>
+    <description>program description</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_SHOW_HIDE_CHANNELS" translate="true" fixed_width="false">
+    <string>Show/Hide Channels</string>
+    <description>show or hide channels</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_SHOW_ALL_CHANNELS" translate="true" fixed_width="false">
+    <string>Show All Channels</string>
+    <description>show all channels</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_HIDE_ALL_CHANNELS" translate="true" fixed_width="false">
+    <string>Hide All Channels</string>
+    <description>hide all channels</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_REORDER_CHANNEL" translate="true" fixed_width="false">
+    <string>Reorder Channel</string>
+    <description>reorder channel</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_SUBTITLE" translate="true" fixed_width="false">
+    <string>Subtitle</string>
+    <description>Subtitle</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_CHANNEL_INFORMATION" translate="true" fixed_width="false">
+    <string>Channel Information</string>
+    <description>Channel Information</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_AUDIO_LANGUAGE" translate="true" fixed_width="false">
+    <string>Audio Language</string>
+    <description>Audio Language</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_AUDIO_LANGUAGE_PRIMARY" translate="true" fixed_width="false">
+    <string>Primary</string>
+    <description>Primary</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_AUDIO_LANGUAGE_ALTERNATE" translate="true" fixed_width="false">
+    <string>Alternate</string>
+    <description>Alternate</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_DUAL_MONO" translate="true" fixed_width="false">
+    <string>Dual Mono</string>
+    <description>hide all channels</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_DUAL_MONO_MAIN" translate="true" fixed_width="false">
+    <string>Main</string>
+    <description>Main</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_DUAL_MONO_SUB" translate="true" fixed_width="false">
+    <string>Sub</string>
+    <description>Sub</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_PRESET" translate="true" fixed_width="false">
+    <string>Preset</string>
+    <description>Preset</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_PRESET_PREVIOUS" translate="true" fixed_width="false">
+    <string>Previous</string>
+    <description>Previous</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TV_SAVE_SCAN_RESULT" translate="true" fixed_width="false">
+    <string>Save the scan result?</string>
+    <description>Save the scan result?</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+
+  <entry handle="DR_MENU_VIDEO_QUALITY" translate="true" fixed_width="false">
+    <string>Video Quality</string>
+    <description>Driving recorder video quality</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_FORMAT_SUCCESS" translate="true" fixed_width="false">
+    <string>Format Success</string>
+    <description>DR SD Format Success</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_FORMAT_ERROR" translate="true" fixed_width="false">
+    <string>Format Error</string>
+    <description>DR SD Format Error</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_FORMAT" translate="true" fixed_width="false">
+    <string>Format</string>
+    <description>Driving recorder format</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_SOFTWARE_UPDATE" translate="true" fixed_width="false">
+    <string>Software Update</string>
+    <description>Update driving recorder software</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SOFTWARE_UPDATE_SUCCESS" translate="true" fixed_width="false">
+    <string>Update Success</string>
+    <description>DR Software Update Success</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SOFTWARE_UPDATE_ERROR" translate="true" fixed_width="false">
+    <string>Update Error</string>
+    <description>DR Software Update Error</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>  
+  <entry handle="DR_MENU_GSENSOR_SETTING" translate="true" fixed_width="false">
+    <string>G-Sensor Setting</string>
+    <description>Driving recorder G-Sensor Sensitivity</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_EVENT_ALERT" translate="true" fixed_width="false">
+    <string>Event Alert</string>
+    <description>Driving recorder Event Alert</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_DONE" translate="true" fixed_width="false">
+    <string>Done</string>
+    <description>Update driving recorder software done</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_SOFTWARE_UPDATE_BTN" translate="true" fixed_width="false">
+    <string>Update</string>
+    <description>Update driving recorder software</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_VIDEO_QUALITY_HIGH" translate="true" fixed_width="false">
+    <string>High (pixel 1280x720)</string>
+    <description>High (pixel 1280x720)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_VIDEO_QUALITY_MEDIUM" translate="true" fixed_width="false">
+    <string>Medium (pixel 640x480)</string>
+    <description>Medium (pixel 640x480)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_VIDEO_QUALITY_LOW" translate="true" fixed_width="false">
+    <string>Low (pixel 320x240)</string>
+    <description>Low (pixel 320x240)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_G_SENSOR_HIGH" translate="true" fixed_width="false">
+    <string>High Sensitivity</string>
+    <description>High</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_G_SENSOR_NORMAL" translate="true" fixed_width="false">
+    <string>Normal Sensitivity</string>
+    <description>Normal</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_G_SENSOR_LOW" translate="true" fixed_width="false">
+    <string>Low Sensitivity</string>
+    <description>Low</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_FORMAT_MSG" translate="true" fixed_width="false">
+    <string>The Records on memory cards will be deleted.\nDo you want to continue?</string>
+    <description>Format message</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_SOFTWARE_UPDATE_NO_UPDATE_MSG" translate="true" fixed_width="false">
+    <string>Current Version: %d.%d%d\nNo update file found.\n Please go to our website and download the new version.</string>
+    <description>Recorder Version: %d.%d%d\nNo update file found.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_SOFTWARE_UPDATE_MSG" translate="true" fixed_width="false">
+    <string>Recorder Version: %d.%d%d\nUpdate version %d.%d%d.\nDo you want to update?</string>
+    <description>Recorder Version: %d.%d%d\nA newer version %d.%d%d is found.\nDo you want to update?</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_SOFTWARE_UPDATE_EQUAL_MSG" translate="true" fixed_width="false">
+    <string>Recorder Version: %d.%d%d\nUpdate version %d.%d%d.\n Your GDR software is the latest version.</string>
+    <description>Recorder Version: %d.%d%d\nUpdate version %d.%d%d.\n Your GDR software is the latest version.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_SOFTWARE_UPDATE_WARNING_MSG" translate="true" fixed_width="false">
+    <string>Recorder Version: %d.%d%d\nUpdate version %d.%d%d.\n Updating will stop recording temporarily.\n Do you want to update?</string>
+    <description>Recorder Version: %d.%d%d\nUpdate version %d.%d%d.\n Your GDR software is the latest version.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+
+  <entry handle="DR_EVENT_SAVING_WARNING_MSG" translate="true" fixed_width="false">
+    <string>Saving event...</string>
+    <description>Saving event...</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_EVENT_G_SENSOR_TRIGGER_WARNING_MSG" translate="true" fixed_width="false">
+    <string>G-sensor is triggered. Saving event...</string>
+    <description>G-sensor is triggered. Saving event...</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_FORMAT_FORMATING_MSG" translate="true" fixed_width="false">
+    <string>Formatting...</string>
+    <description>Start Formatting...</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_MENU_SOFTWARE_UPDATE_UPDATING_MSG" translate="true" fixed_width="false">
+    <string>Updating Recorder...</string>
+    <description>Start updating Recorder...</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_CATEGORY_TODAY" translate="true" fixed_width="false">
+    <string>Today</string>
+    <description>Driving recorder category - Today</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_CATEGORY_YESTERDAY" translate="true" fixed_width="false">
+    <string>Yesterday</string>
+    <description>Driving recorder category - Yesterday</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_CATEGORY_OLD" translate="true" fixed_width="false">
+    <string>Old</string>
+    <description>Driving recorder category - Old</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_TYPE_TITLE" translate="true" fixed_width="false">
+    <string>List...</string>
+    <description>Driving recorder list type - title</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_TYPE_ALL" translate="true" fixed_width="false">
+    <string>List All</string>
+    <description>Driving recorder list type - All</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_TYPE_SINGLEDATE" translate="true" fixed_width="false">
+    <string>List Single Date</string>
+    <description>Driving recorder list type - Single Date</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_TYPE_PROTECTED" translate="true" fixed_width="false">
+    <string>List Protected</string>
+    <description>Driving recorder list type - Protected</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_FILE_NAME" translate="true" fixed_width="false">
+    <string>  %d/%02d/%02d, %02d:%02d:%02d ~ %02d:%02d:%02d</string>
+    <description>Driving recorder list files name</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="DR_LIST_PROTECT_EVENT" translate="true" fixed_width="false">
+    <string>Protected Event</string>
+    <description>Driving recorder list files name</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_NO_FILE" translate="true" fixed_width="false">
+    <string>No File</string>
+    <description>Driving recorder list no file</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_SINGLEDATE_SLIDER_DATE" translate="true" fixed_width="false">
+    <string>%d/%02d/%02d</string>
+    <description>Driving recorder list single date slider date</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LIST_SINGLEDATE_SLIDER_DATE_NONE" translate="true" fixed_width="false">
+    <string>None</string>
+    <description>Driving recorder list no single date slider date</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_TOOLBAR_PLAYBACK_START_TIME" translate="true" fixed_width="false">
+    <string>00:00</string>
+    <description>Driving recorder tool bar playback start time</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_TOOLBAR_PLAYBACK_MARK_BTN" translate="true" fixed_width="false">
+    <string>Mark</string>
+    <description>Driving recorder tool bar playback mark button</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_TOOLBAR_PLAYBACK_CURRENT_TIME" translate="true" fixed_width="false">
+    <string>%02d:%02d</string>
+    <description>Driving recorder tool bar playback current time</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LABEL_RECORDING_CURRENT_TIME" translate="true" fixed_width="false">
+    <string>%02d:%02d:%02d</string>
+    <description>Driving recorder recording current time</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_LABEL_RECORDING_START_TIME" translate="true" fixed_width="false">
+    <string>00:00:00</string>
+    <description>Driving recorder recording current time</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_TOOLBAR_PLAYBACK_DROP_MARK_BTN" translate="true" fixed_width="false">
+    <string>Drop to here</string>
+    <description>Driving recorder tool bar playback drop mark button</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_TOOLBAR_RECORDING_STOP_WARNING" translate="true" fixed_width="false">
+    <string>Stop Recording?</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_TOOLBAR_MARK_OVER_FIVE" translate="true" fixed_width="false">
+    <string>There are five marked points in this file. If you want to add new marked points, please remove any marked points.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_TOOLBAR_SD_ERROR" translate="true" fixed_width="false">
+    <string>Micro SD Card Error.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_RECORDING_REQUEST" translate="true" fixed_width="false">
+    <string>The speed is over 10 km/h. Start Recording?</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SAME_MARK_POINT" translate="true" fixed_width="false">
+    <string>This point of time had been marked.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_STARTUP_WARNING" translate="true" fixed_width="false">
+    <string>Please connect power cable which output is 2A to start driving recorder</string>
+    <description>Driving recorder warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_NO_DISK" translate="true" fixed_width="false">
+    <string>Please insert memory card</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_DISK_IS_NOT_ACCESSIBLE" translate="true" fixed_width="false">
+    <string>Memory card is not accessible, Please change or format the memory card.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_DISK_FILES_CORRUPT" translate="true" fixed_width="false">
+    <string>Memory card is not accessible: files corrupt.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_DISK_FULL" translate="true" fixed_width="false">
+    <string>No enough space on memory card, please change</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_FORMAT_FOR_PERFORMANCE" translate="true" fixed_width="false">
+    <string>Please format the memory card for better performance</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="DR_SD_REMOVED_WARNING" translate="true" fixed_width="false">
+    <string>Memory card is removed.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SD_REMOVED_ERROR" translate="true" fixed_width="false">
+    <string>Memory card is removed. Files corrupt.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SD_INSERT_ERROR" translate="true" fixed_width="false">
+    <string>Memory card is inserted. Format Error. Please change or format the memory card.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SD_INSERT_WARNING" translate="true" fixed_width="false">
+    <string>Memory card is inserted.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SD_RECORDING_ERROR" translate="true" fixed_width="false">
+    <string>Recording Error.</string>
+    <description>Recording Error.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SD_G_SENSOR_TRIGGER" translate="true" fixed_width="false">
+    <string>G-Senser Trigger</string>
+    <description>G-Senser Trigger</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="DR_SD_FILE_PROTECTED" translate="true" fixed_width="false">
+    <string>File Protected</string>
+    <description>File Protected</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SD_PLAYING_ERROR" translate="true" fixed_width="false">
+    <string>Playing Error.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SD_SECOND_LOST" translate="true" fixed_width="false">
+    <string>Files lost seconds</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_SD_FAT_ENTRY" translate="true" fixed_width="false">
+    <string>Fat entry. Please format the memory card.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_RESTARTING" translate="true" fixed_width="false">
+    <string>Restarting Driving Recorder</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="DR_DISK_TOO_SMALL" translate="true" fixed_width="false">
+    <string>The size of memory card is too small. Please change the memory card.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_DISK_SIZE_UNRECOGNIZE" translate="true" fixed_width="false">
+    <string>The size of memory card is unrecognized. Please change the memory card.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+   <entry handle="DR_PLEASE_KEEP_POWER_ON_WHILE_UPDATING" translate="true" fixed_width="false">
+    <string>Please keep power on while updating.</string>
+    <description>Driving recorder tool bar warning</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_FILE_PROTECT" translate="true" fixed_width="false">
+    <string>Protect</string>
+    <description>Protect the recroding file</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_FILE_UNPROTECT" translate="true" fixed_width="false">
+    <string>Unprotect</string>
+    <description>Unprotect the recroding file</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_RECODING_STOPPED" translate="true" fixed_width="false">
+    <string>Driving recorder is stopped.</string>
+    <description>PageExtenalPower hint text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_BROWSING_FILES_WARNING" translate="true" fixed_width="false">
+    <string>Browsing record files will stop event recording. Do you want to continue?</string>
+    <description>Browsing record files warning.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_START_RECORD_FIRST_WARNING" translate="true" fixed_width="false">
+    <string>Please start recording first.</string>
+    <description>Please start recording first.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+   <entry handle="DR_CHANGE_IMAGE_TYPE_WARNING" translate="true" fixed_width="false">
+    <string>Changing to the setting will stop recording temporarily. Do you want to continue?</string>
+    <description>Change image type warning.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DR_FORMAT_MEMORY_CARD_WARNING" translate="true" fixed_width="false">
+    <string>Formating the memory card will stop recording temporarily and delete record files. Do you want to continue?</string>
+    <description>Format memory card warning.</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RTE_PREFERENCE_LOCAL" translate="true" fixed_width="false">
+    <string>Local Road First</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="RTE_PREFERENCE_TOLL" translate="true" fixed_width="false">
+    <string>Toll Road First</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="RTE_PREFERENCE_SGMA_SAVING" translate="true" fixed_width="false">
+    <string>Cost Saving</string>
+    <description>simulator text</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COST_SAVING" translate="true" fixed_width="false">
+    <string>ERP Cost Saving</string>
+    <description>cost saving option</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COST_SAVING_CONFIRM" translate="true" fixed_width="false">
+    <string>Route Preference and Avoidances Settings will be overridden when ERP Cost Saving is enabled</string>
+    <description>cost saving confirmation message</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COST_SAVING_NOTIFY" translate="true" fixed_width="false">
+    <string>Could not set Route Preference and Avoidances when ERP Cost Saving is enabled</string>
+    <description>cost saving notification message</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="CONF_NAV_TO_CLOSING_POI" translate="true" fixed_width="false">
+    <string>This place is currently closed, proceed driving this route?</string>
+    <description>Inform the user this POI is not open and ask for confirmation</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="DOWNLOAD_GPI" translate="true" fixed_width="false">
+    <string>The gpi file is not loaded, please download it from Garmin website</string>
+    <description>Inform the user to download gpi file from Garmin website</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="TOUCHSCREEN" translate="true" fixed_width="true">
+    <string>Touch screen</string>
+    <description>Touch screen</description>
+  </entry>
+    <entry handle="CALIBRATION" export="true" log-width="true" fixed_width="false">
+     <string>Calibration</string>
+    <description>Calibration</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COMPASS_N" translate="true" fixed_width="false">
+    <string>N</string>
+    <description>north</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COMPASS_NE" translate="true" fixed_width="false">
+    <string>NE</string>
+    <description>northeast</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COMPASS_E" translate="true" fixed_width="false">
+    <string>E</string>
+    <description>east</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COMPASS_SE" translate="true" fixed_width="false">
+    <string>SE</string>
+    <description>southeast</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COMPASS_S" translate="true" fixed_width="false">
+    <string>S</string>
+    <description>south</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COMPASS_SW" translate="true" fixed_width="false">
+    <string>SW</string>
+    <description>southwest</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COMPASS_W" translate="true" fixed_width="false">
+    <string>W</string>
+    <description>west</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="COMPASS_NW" translate="true" fixed_width="false">
+    <string>NW</string>
+    <description>northwest</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TOOLS_COMPASS" translate="true" fixed_width="false">
+    <string>Compass</string>
+    <description>ECompass</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="CALIBRATION_RETRY" export="true" log-width="true" fixed_width="false">
+     <string>Retry</string>
+    <description>retry</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="CALIBRATION_COMPLETED" export="true" log-width="true" fixed_width="false">
+     <string>Completed</string>
+    <description>Completed</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="CALIBRATION_ROTATE_X" export="true" log-width="true" fixed_width="false">
+     <string>Slowly rotate device one time lying flat.</string>
+    <description>calibration instruction message</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+    <entry handle="CALIBRATION_ROTATE_Y" export="true" log-width="true" fixed_width="false">
+     <string>Slowly rotate device one time end-to-end.</string>
+    <description>calibration instruction message</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+     <entry handle="CALIBRATION_ROTATE_Z" export="true" log-width="true" fixed_width="false">
+     <string>Slowly rotate device one time toward you.</string>
+    <description>calibration instruction message</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="START_CALIBRATION" export="true" log-width="true" fixed_width="false">
+     <string>Start Calibration</string>
+    <description>calibration instruction message</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="CALIBRATION_FAILED" export="true" log-width="true" fixed_width="false">
+     <string>Calibration failed, please try again</string>
+    <description>calibration instruction message</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="2D_LANDMARK_SHOW" export="true" log-width="true">
+    <string>Show</string>
+    <description>Label for 2D landmark display setting</description>
+  </entry>
+  <entry handle="2D_LANDMARK_HIDE" export="true" log-width="true">
+    <string>Hide</string>
+    <description>Label for 2D landmark display setting</description>
+  </entry>
+  <entry handle="2D_LANDMARK" export="true" log-width="true">
+    <string>2D Landmark</string>
+    <description>Label for 2D landmark display setting</description>
+  </entry>
+  <entry handle="AVOID_SMART_IC" translate="true" fixed_width="false">
+    <string>Smart IC</string>
+    <description>smart ic for japan</description>
+  </entry>
+  <entry handle="TOLL_FEE" export="true" log-width="true" fixed_width="false">
+     <string>Estimated Toll Fee : $ </string>
+    <description>toll fee information</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="JAMA_VEDIO_MSG" export="true" fixed_width="false">
+     <string>Please enjoy the voice only while driving</string>
+    <description>JAMA message for vedio player</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SHOW_WEATHERINFO" export="true" fixed_width="false">
+     <string>Weather Info</string>
+    <description>Show weather info</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SHOW_PARKINGINFO" export="true" fixed_width="false">
+     <string>Parking Info</string>
+    <description>Show parking info</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TMC_WEATHER_SUNNY" export="true" fixed_width="false">
+     <string>Sunny Weather</string>
+    <description>Sunny Weather</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TMC_WEATHER_CLEAR" export="true" fixed_width="false">
+     <string>Clear Weather</string>
+    <description>Clear Weather</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TMC_WEATHER_OVERCAST" export="true" fixed_width="false">
+     <string>Overcast Weather</string>
+    <description>Overcast Weather</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TMC_WEATHER_SHOWERS" export="true" fixed_width="false">
+     <string>Showers</string>
+    <description>Showers</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TMC_WEATHER_RAIN" export="true" fixed_width="false">
+     <string>Rain</string>
+    <description>Rain</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TMC_WEATHER_HEAVYRAIN" export="true" fixed_width="false">
+     <string>Heavy Rain</string>
+    <description>Heavy Rain</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="TMC_WEATHER_HEAVYRAIN_EXPECTED" export="true" fixed_width="false">
+     <string>Heavy Rain Expected</string>
+    <description>Heavy Rain Expected</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="HIGHWAY_MODE_OPTION" translate="true" fixed_width="false">
+    <string>High way mode option</string>
+    <description>Label of nonvol setting hwy mode</description>
+	<output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SHCT_GO_OFFICE" translate="true" fixed_width="false">
+    <string>Go to office</string>
+    <description>hidden asr shortcut to immedaitely create a route to the office</description>
+  </entry>
+  <entry handle="NAVIGATING_OFFICE" translate="true" fixed_width="false">
+    <string>Navigating To Office</string>
+    <description>ASR prompt deliered after user speaks &quot;Go To Office&quot;</description>
+  </entry>
+  <entry handle="SHOW_TRIP_DETAIL" translate="true" fixed_width="false">
+    <string>Detail</string>
+    <description>show multi-route turn preview</description>
+  </entry>
+  <entry handle="SWITCH_DRIVE_ROAD" translate="true" fixed_width="false">
+    <string>Switch Road</string>
+    <description>show multi-route turn preview</description>
+  </entry>
+  <entry handle="KBD_NUMBER_NICKNAME" translate="true" fixed_width="false">
+    <string>number</string>
+    <description>nickname of number keyboard</description>
+  </entry>
+  <entry handle="KBD_ALPHA_NICKNAME" translate="true" fixed_width="false">
+    <string>ABC</string>
+    <description>nickname of alpha keyboard</description>
+  </entry>
+  <entry handle="KBD_CANG_JIE_NICKNAME" translate="true" fixed_width="false">
+    <string>cang jie</string>
+    <description>nickname of cangjie keyboard</description>
+  </entry>
+  <entry handle="KBD_HW_CHN_NICKNAME" translate="true" fixed_width="false">
+    <string>Chinese handWriting</string>
+    <description>nickname of Chinese handWriting keyboard</description>
+  </entry>
+  <entry handle="KBD_HW_TWN_NICKNAME" translate="true" fixed_width="false">
+    <string>TaiWan handWriting</string>
+    <description>nickname of TaiWan handWriting keyboard</description>
+  </entry>
+  <entry handle="KBD_PHONETIC_TW_NICKNAME" translate="true" fixed_width="false">
+    <string>TaiWan phonetic</string>
+    <description>nickname of TaiWan phonetic keyboard</description>
+  </entry>
+  <entry handle="KBD_PHONETIC_CH_NICKNAME" translate="true" fixed_width="false">
+    <string>China phonetic</string>
+    <description>nickname of China phonetic keyboard</description>
+  </entry>
+  <entry handle="KBD_PIN_YIN_NICKNAME" translate="true" fixed_width="false">
+    <string>Chinese pinyin</string>
+    <description>nickname of Chinese pinyin keyboard</description>
+  </entry>
+  <entry handle="KBD_LANGUAGE_SETTING" translate="true" fixed_width="false">
+    <string>setting</string>
+    <description>the name of tha language setting button</description>
+  </entry>
+  <entry handle="OV_SPD_ALT_CONTINUOUS" translate="true" fixed_width="false">
+    <string>alert continuously</string>
+    <description>always alert when driving speed exceed the limit speed</description>
+  </entry>
+  <entry handle="OV_SPD_ALT_PERIOD" translate="true" fixed_width="false">
+    <string>alert every 10 seconds</string>
+    <description>alert every 10 seconds when driving speed exceed the limit speed</description>
+  </entry>
+  <entry handle="OV_SPD_ALT_NEVER" translate="true" fixed_width="false">
+    <string>never alert</string>
+    <description>never alert even when driving speed exceed the limit speed</description>
+  </entry>
+ </catalog>

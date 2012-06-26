@@ -1,0 +1,715 @@
+<catalog  pnumber="006-Dxxxx-yy" file_version="2.7" language="th_TH" display_name="" domain="legacy" direction="0" codepage="utf-8">
+<entry handle="TXT_TRF_UP_TO_DATE">
+<strings>
+<string default="true">
+<visual>ข้อมูลจราจรล่าสุด</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="TXT_TRF_RECEIVING_TRAFFIC">
+<strings>
+<string default="true">
+<visual>กำลังรับข้อมูลจราจร</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_HEAVY_STR_M">
+<strings>
+<string default="true">
+<visual>จราจรหนาแน่นห่างออกไป &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_STOPPED_STR_M">
+<strings>
+<string default="true">
+<visual>จราจรหยุดนิ่งห่างออกไป &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_HEAVY_STR_M">
+<strings>
+<string default="true">
+<visual>จราจรหนาแน่นข้างหน้า &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_CABLE_UNPLUGGED">
+<strings>
+<string default="true">
+<visual>เสารับสัญญาณไม่ได้เชื่อมต่อ</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_OUT_OF_DATE">
+<strings>
+<string default="true">
+<visual>ข้อมูลจราจรขาดหายประมาณ &lt;TIME&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_STOPPED_STR_M">
+<strings>
+<string default="true">
+<visual>จราจรหยุดนิ่งข้างหน้า &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_ACCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>อุบัติเหตุรถยนต์ระยะ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดถนนระยะ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_CONDITION_STR_M">
+<strings>
+<string default="true">
+<visual>สภาพถนนที่เป็นอันตรายระยะ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_CONST_STR_M">
+<strings>
+<string default="true">
+<visual>ก่อสร้างถนนระยะ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_INCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรติดขัดระยะ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_INFO_STR_M">
+<strings>
+<string default="true">
+<visual>มีข้อมูลการเดินทาง</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_REDUCED_STR_M">
+<strings>
+<string default="true">
+<visual>ลดช่องทางเดินรถระยะ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_SLOW_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรเคลื่อนตัวช้าระยะ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_DELAY_STR_M">
+<strings>
+<string default="true">
+<visual>ล่าช้า &lt;TIME&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_ACCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>กำลังเข้าสู่บริเวณที่เกิดอุบัติเหตุ</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>กำลังเข้าสู่บริเวณที่ปิดถนน</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_CONDITION_STR_M">
+<strings>
+<string default="true">
+<visual>กำลังเข้าสู่สภาพถนนที่เป็นอันตราย</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_CONST_STR_M">
+<strings>
+<string default="true">
+<visual>กำลังเข้าสู่บริเวณก่อสร้างถนน</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_INCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>กำลังเข้าสู่บริเวณที่การจราจรติดขัด</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_INFO_STR_M">
+<strings>
+<string default="true">
+<visual>มีข้อมูลการเดินทาง</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_REDUCED_STR_M">
+<strings>
+<string default="true">
+<visual>กำลังเข้าสู่บริเวณที่ลดช่องทางเดินรถ</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_SLOW_STR_M">
+<strings>
+<string default="true">
+<visual>กำลังเข้าสู่บริเวณที่การจราจรเคลื่อนตัวช้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_KILOMETER_STR_M">
+<strings>
+<string default="true">
+<visual>กิโลเมตร</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_KILOMETERS_STR_M">
+<strings>
+<string default="true">
+<visual>กิโลเมตร</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_MILE_STR_M">
+<strings>
+<string default="true">
+<visual>ไมล์</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_MILES_STR_M">
+<strings>
+<string default="true">
+<visual>ไมล์</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_MINUTE_STR_M">
+<strings>
+<string default="true">
+<visual>นาที</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_MINUTES_STR_M">
+<strings>
+<string default="true">
+<visual>นาที</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_TRAFFIC_AHEAD_STR_M">
+<strings>
+<string default="true">
+<visual>การแจ้งเตือนสภาพจราจร</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_ALERT_TTS_TRF_ALERT_STR_M">
+<strings>
+<string default="true">
+<visual>การแจ้งเตือนสภาพจราจร</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_2_LOCATION_STR_M">
+<strings>
+<string default="true">
+<visual>&lt;ROAD1&gt; บริเวณ &lt;ROAD2&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_3_LOCATION_STR_M">
+<strings>
+<string default="true">
+<visual>&lt;ROAD1&gt; จาก &lt;ROAD2&gt; ถึง &lt;ROAD3&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_4_LOCATION_STR_M">
+<strings>
+<string default="true">
+<visual>จาก &lt;ROAD1&gt; บริเวณ &lt;ROAD2&gt; ถึง &lt;ROAD3&gt; บริเวณ &lt;ROAD4&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_ACCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>อุบัติเหตุ</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดถนน</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_CONDITION_STR_M">
+<strings>
+<string default="true">
+<visual>สภาพที่เป็นอันตราย</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_CONST_STR_M">
+<strings>
+<string default="true">
+<visual>การก่อสร้าง</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_ENTRY_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดทางลาดขาเข้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_EXIT_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดทางลาดขาออก</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_INCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรติดขัด</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_INFO_STR_M">
+<strings>
+<string default="true">
+<visual>ข้อมูลการเดินทาง</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_REDUCED_STR_M">
+<strings>
+<string default="true">
+<visual>ลดช่องทางเดินรถ</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DESC_SLOW_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรเคลื่อนตัวช้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DIR_CLOCKWISE_STR_M">
+<strings>
+<string default="true">
+<visual>ตามเข็ม</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DIR_COUNTERCLOCKWISE_STR_M">
+<strings>
+<string default="true">
+<visual>ทวนเข็ม</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DIR_EASTBOUND_STR_M">
+<strings>
+<string default="true">
+<visual>ตะวันออก</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DIR_NORTHBOUND_STR_M">
+<strings>
+<string default="true">
+<visual>เหนือ</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DIR_SOUTHBOUND_STR_M">
+<strings>
+<string default="true">
+<visual>ใต้</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_DIR_WESTBOUND_STR_M">
+<strings>
+<string default="true">
+<visual>ตะวันตก</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_RECALC_RECALCULATING_STR_M">
+<strings>
+<string default="true">
+<visual>กำลังคำนวณอีกครั้ง</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_RECALC_ROAD_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดถนนข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_RECALC_SEVERE_TRAFFIC_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรหนาแน่นข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_ACCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>อุบัติเหตุ</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดถนน</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CONDITION_STR_M">
+<strings>
+<string default="true">
+<visual>สภาพที่เป็นอันตราย</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CONST_STR_M">
+<strings>
+<string default="true">
+<visual>การก่อสร้าง</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_ACCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>อุบัติเหตุ &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดถนน &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CONDITION_STR_M">
+<strings>
+<string default="true">
+<visual>สภาพที่เป็นอันตราย &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CONST_STR_M">
+<strings>
+<string default="true">
+<visual>การก่อสร้าง &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_ENTRY_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดทางลาดขาเข้า &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_EXIT_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดทางลาดขาออก &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_INCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรติดขัด &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_INFO_STR_M">
+<strings>
+<string default="true">
+<visual>ข้อมูลการเดินทาง &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_REDUCED_STR_M">
+<strings>
+<string default="true">
+<visual>ลดช่องทางเดินรถ &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_SLOW_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรเคลื่อนตัวช้า &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_ENTRY_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดทางลาดขาเข้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_EXIT_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ปิดทางลาดขาออก</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_INCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรติดขัด</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_INFO_STR_M">
+<strings>
+<string default="true">
+<visual>ข้อมูลการเดินทาง</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_REDUCED_STR_M">
+<strings>
+<string default="true">
+<visual>ลดช่องทางเดินรถ</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_SLOW_STR_M">
+<strings>
+<string default="true">
+<visual>การจราจรเคลื่อนตัวช้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_ACCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากอุบัติเหตุ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากการปิดถนน &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CONDITION_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากสภาพที่เป็นอันตราย &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CONST_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากการก่อสร้าง &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_ENTRY_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากปิดทางลาดขาเข้า &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_EXIT_CLOSED_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากปิดทางลาดขาออก &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_INCIDENT_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากการจราจรติดขัด &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_INFO_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากข้อมูลการเดินทาง &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_REDUCED_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากการลดช่องทางเดินรถ &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_SLOW_STR_M">
+<strings>
+<string default="true">
+<visual>ห่างจากการจราจรเคลื่อนตัวช้า &lt;DIST&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_LOCATION_STR_M">
+<strings>
+<string default="true">
+<visual>&lt;ROAD1&gt; บริเวณ &lt;ROAD2&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_DELAY_AND_DIST_STR_M">
+<strings>
+<string default="true">
+<visual>ล้าช้า &lt;TIME&gt; &lt;DIST&gt; ข้างหน้า</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_DELAY_STR_M">
+<strings>
+<string default="true">
+<visual>ล่าช้า &lt;TIME&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+<entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_SUMMARY_STR_M">
+<strings>
+<string default="true">
+<visual>ล่าช้าบนเส้นทาง &lt;DELAY_COUNT&gt; ครั้ง เวลารวม &lt;TIME&gt;</visual>
+</string>
+</strings>
+<usage visual="true"/>
+</entry>
+</catalog>
+

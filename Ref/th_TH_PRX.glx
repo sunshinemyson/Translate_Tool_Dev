@@ -1,0 +1,106 @@
+<catalog  pnumber="006-Dxxxx-yy" file_version="1.0" language="th_TH" display_name="ไทย" domain="legacy" direction="0" codepage="utf-8">
+    <entry handle="STR_TXT_Average_Safety_Camera_Ahead_STR">
+      <strings>
+        <string default="true">
+          <visual>มีกล้องนิรภัยโดยเฉลี่ยข้างหน้า</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_Average_Safety_Camera_Zone_STR">
+      <strings>
+        <string default="true">
+          <visual>เขตกล้องนิรภัยโดยเฉลี่ย</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_Fixed_Safety_Camera_Ahead_STR">
+      <strings>
+        <string default="true">
+          <visual>มีกล้องนิรภัยคงที่ข้างหน้า</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_Fixed_Safety_Camera_Zone_STR">
+      <strings>
+        <string default="true">
+          <visual>เขตกล้องนิรภัยคงที่</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_LANG_ID_STR_M">
+      <strings>
+        <string default="true">
+          <visual>ไทย</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_Mobile_Safety_Camera_Zone_STR">
+      <strings>
+        <string default="true">
+          <visual>เขตกล้องนิรภัยเคลื่อนที่</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_SAFETY_CAM_Average_Camera_STR">
+      <strings>
+        <string default="true">
+          <visual>กล้องโดยเฉลี่ย</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_SAFETY_CAM_Fixed_Camera_STR">
+      <strings>
+        <string default="true">
+          <visual>กล้องคงที่</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_SAFETY_CAM_Mobile_Camera_STR">
+      <strings>
+        <string default="true">
+          <visual>กล้องเคลื่อนที่</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_SAFETY_CAM_Temp_Camera_STR">
+      <strings>
+        <string default="true">
+          <visual>กล้องชั่วคราว</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_Temp_Safety_Camera_Ahead_STR">
+      <strings>
+        <string default="true">
+          <visual>มีกล้องนิรภัยชั่วคราวข้างหน้า</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_Temp_Safety_Camera_Zone_STR">
+      <strings>
+        <string default="true">
+          <visual>เขตกล้องนิรภัยชั่วคราว</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_Variable_Safety_Camera_Zone_STR">
+      <strings>
+        <string default="true">
+          <visual>เขตกล้องนิรภัยผันแปร</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+</catalog>

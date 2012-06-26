@@ -1,0 +1,4291 @@
+<catalog codepage="utf-8" direction="0" domain="legacy" display_name="简体中文"
+  file_version="2.70" language="zh_CN" pnumber="006-D1660-00">
+    <entry handle="STR_TXT_TRF_ABNORMAL_LOAD_STR">
+      <strings>
+        <string default="true">
+          <visual>负载异常</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ABNORMAL_LOAD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处负载异常。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ABNORMAL_LOAD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处负载异常。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ACCDNT_HAZARD_MTRL_STR">
+      <strings>
+        <string default="true">
+          <visual>事故：危险材料</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ACCDNT_HAZARD_MTRL_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>事故：前方 &lt;DIST&gt; 处有危险材料。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ACCDNT_HAZARD_MTRL_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>事故：距离 &lt;DIST&gt; 处有危险材料。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ACCIDENT_STR">
+      <strings>
+        <string default="true">
+          <visual>事故</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ACCIDENT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处发生事故。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ACCIDENT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处发生事故。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_ACCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 内有汽车事故</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 内道路封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_CONDITION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 内路况危险</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_CONST_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 内有道路施工</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_INCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 内有交通事件</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_INFO_STR_M">
+      <strings>
+        <string default="true">
+          <visual>可用交通信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_REDUCED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 内车道减少</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_AHEAD_SLOW_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 内车辆行驶缓慢</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_DELAY_STR_M">
+      <strings>
+        <string default="true">
+          <visual>堵塞 &lt;TIME&gt;</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_ACCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>正在进入事故现场</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>正在进入道路封闭区</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_CONDITION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>正在进入危险路况区</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_CONST_STR_M">
+      <strings>
+        <string default="true">
+          <visual>正在进入道路施工区</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_INCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>正在进入事件现场</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_INFO_STR_M">
+      <strings>
+        <string default="true">
+          <visual>可用交通信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_REDUCED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>正在进入车道减少区</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_ENTER_SLOW_STR_M">
+      <strings>
+        <string default="true">
+          <visual>正在进入缓慢行驶区</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_KILOMETERS_STR_M">
+      <strings>
+        <string default="true">
+          <visual>千米</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_KILOMETER_STR_M">
+      <strings>
+        <string default="true">
+          <visual>千米</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_MILES_STR_M">
+      <strings>
+        <string default="true">
+          <visual>英里</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_MILE_STR_M">
+      <strings>
+        <string default="true">
+          <visual>英里</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_MINUTES_STR_M">
+      <strings>
+        <string default="true">
+          <visual>分钟</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_MINUTE_STR_M">
+      <strings>
+        <string default="true">
+          <visual>分钟</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_TRAFFIC_AHEAD_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通警告</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ALERT_TTS_TRF_ALERT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通警告</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ANIMAL_ON_ROAD_STR">
+      <strings>
+        <string default="true">
+          <visual>路上有动物</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ANIMAL_ON_ROAD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处路上有动物。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ANIMAL_ON_ROAD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处路上有动物。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_AVALANCHE_RISK_STR">
+      <strings>
+        <string default="true">
+          <visual>雪崩风险</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_AVALANCHE_RISK_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有雪崩风险。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_AVALANCHE_RISK_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有雪崩风险。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BLACK_ICE_STR">
+      <strings>
+        <string default="true">
+          <visual>黑冰</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BLACK_ICE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有黑冰。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BLACK_ICE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有黑冰。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BRIDGE_CLOSED_STR">
+      <strings>
+        <string default="true">
+          <visual>桥梁封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BRIDGE_CLOSED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处桥梁封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BRIDGE_CLOSED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处桥梁封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BROKEN_VEHICLE_STR">
+      <strings>
+        <string default="true">
+          <visual>故障车辆</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BROKEN_VEHICLE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有故障车辆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BROKEN_VEHICLE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有故障车辆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BURST_PIPE_STR">
+      <strings>
+        <string default="true">
+          <visual>爆裂管道</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BURST_PIPE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有爆裂管道。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_BURST_PIPE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有爆裂管道。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CABLE_UNPLUGGED">
+      <strings>
+        <string default="true">
+          <visual>接收机已断开连接</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CENTER_LANE_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>中间车道封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CENTER_LANE_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处中间车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CENTER_LANE_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处中间车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CHECKPOINT_STR">
+      <strings>
+        <string default="true">
+          <visual>检查站</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CHECKPOINT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有检查站。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CHECKPOINT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有检查站。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CHILD_ABDUCTED_STR">
+      <strings>
+        <string default="true">
+          <visual>诱拐儿童</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CHILD_ABDUCTED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有诱拐儿童。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CHILD_ABDUCTED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有诱拐儿童。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CLEARANCE_WORK_STR">
+      <strings>
+        <string default="true">
+          <visual>清障作业</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CLEARANCE_WORK_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处在执行清障作业。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CLEARANCE_WORK_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处在执行清障作业。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONNECTING_RD_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>连接道路封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONNECTING_RD_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处连接道路封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONNECTING_RD_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处连接道路封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONSTRUCTION_STR">
+      <strings>
+        <string default="true">
+          <visual>施工</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONSTRUCTION_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处在施工。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONSTRUCTION_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处在施工。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONTRAFLOW_STR">
+      <strings>
+        <string default="true">
+          <visual>逆行车流</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONTRAFLOW_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有逆行车流。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONTRAFLOW_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有逆行车流。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONVOY_STR">
+      <strings>
+        <string default="true">
+          <visual>护送队</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONVOY_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有护送队。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CONVOY_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有护送队。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CROWD_PEOPLE_STR">
+      <strings>
+        <string default="true">
+          <visual>人群</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CROWD_PEOPLE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有人群。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_CROWD_PEOPLE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有人群。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGEROUS_VHCL_STR">
+      <strings>
+        <string default="true">
+          <visual>危险车辆</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGEROUS_VHCL_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有危险车辆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGEROUS_VHCL_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有危险车辆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGER_AVALANCHE_STR">
+      <strings>
+        <string default="true">
+          <visual>注意：雪崩</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGER_AVALANCHE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>注意：前方 &lt;DIST&gt; 处发生雪崩。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGER_AVALANCHE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>注意：距离 &lt;DIST&gt; 处发生雪崩。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGE_GUNFIRE_STR">
+      <strings>
+        <string default="true">
+          <visual>警告：枪战</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGE_GUNFIRE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>警告：前方 &lt;DIST&gt; 处有枪战。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DANGE_GUNFIRE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>警告：距离 &lt;DIST&gt; 处有枪战。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DELAYS_STR">
+      <strings>
+        <string default="true">
+          <visual>交通堵塞</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DELAYS_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处交通堵塞。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DELAYS_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处交通堵塞。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DEMONSTRATION_STR">
+      <strings>
+        <string default="true">
+          <visual>游行</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DEMONSTRATION_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有游行。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DEMONSTRATION_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有游行。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_2_LOCATION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;ROAD2&gt; 的 &lt;ROAD1&gt;。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_3_LOCATION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>从 &lt;ROAD2&gt; 到 &lt;ROAD3&gt; 的 &lt;ROAD1&gt;。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_4_LOCATION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>从 &lt;ROAD2&gt; 的 &lt;ROAD1&gt; 到 &lt;ROAD4&gt; 的  &lt;ROAD3&gt;。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_ACCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>事故。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>道路封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_CONDITION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>危险路况。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_CONST_STR_M">
+      <strings>
+        <string default="true">
+          <visual>施工。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_DIST_AHEAD_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt;。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_DIST_AWAY_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt;。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_ENTRY_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>入口匝道关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_EXIT_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>出口匝道关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_HEAVY_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通拥挤。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_INCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>事件。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_INFO_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_MULTIPLE_STR_M">
+      <strings>
+        <string default="true">
+          <visual>多个事件。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_QUEUING_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通走走停停。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_REDUCED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>车道减少。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_SLOW_STR_M">
+      <strings>
+        <string default="true">
+          <visual>车辆行驶缓慢。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DESC_STOPPED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通堵塞。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DIR_CLOCKWISE_STR_M">
+      <strings>
+        <string default="true">
+          <visual>顺时针</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DIR_COUNTERCLOCKWISE_STR_M">
+      <strings>
+        <string default="true">
+          <visual>逆时针</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DIR_EASTBOUND_STR_M">
+      <strings>
+        <string default="true">
+          <visual>向东行驶</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DIR_NORTHBOUND_STR_M">
+      <strings>
+        <string default="true">
+          <visual>向北行驶</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DIR_SOUTHBOUND_STR_M">
+      <strings>
+        <string default="true">
+          <visual>向南行驶</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DIR_WESTBOUND_STR_M">
+      <strings>
+        <string default="true">
+          <visual>向西行驶</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DNGR_HAZARD_MTRL_STR">
+      <strings>
+        <string default="true">
+          <visual>注意：危险材料</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DNGR_HAZARD_MTRL_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>注意：前方 &lt;DIST&gt; 处有危险材料。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DNGR_HAZARD_MTRL_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>注意：距离 &lt;DIST&gt; 处有危险材料。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DNGR_OBJECT_ON_RD_STR">
+      <strings>
+        <string default="true">
+          <visual>注意：路上有物体</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DNGR_OBJECT_ON_RD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>注意：前方 &lt;DIST&gt; 处路上有物体。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_DNGR_OBJECT_ON_RD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>注意：距离 &lt;DIST&gt; 处路上有物体。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EARTHQUAKE_STR">
+      <strings>
+        <string default="true">
+          <visual>地震破坏</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EARTHQUAKE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有地震破坏。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EARTHQUAKE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有地震破坏。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EMERGENCY_VHCL_STR">
+      <strings>
+        <string default="true">
+          <visual>紧急车辆</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EMERGENCY_VHCL_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有紧急车辆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EMERGENCY_VHCL_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有紧急车辆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EMRGNCY_PHONE_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>紧急电话信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EMRGNCY_PHONE_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有紧急电话信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EMRGNCY_PHONE_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有紧急电话信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ENTRY_RAMP_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>入口匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ENTRY_RAMP_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处入口匝道关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ENTRY_RAMP_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 外入口匝道关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVACUATION_STR">
+      <strings>
+        <string default="true">
+          <visual>交通疏导</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVACUATION_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有交通疏导。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVACUATION_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有交通疏导。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1853_Q0_STR">
+      <strings>
+        <string default="true">
+          <visual>限速</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1853_Q1_STR">
+      <strings>
+        <string default="true">
+          <visual/>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1853_Q2_STR">
+      <strings>
+        <string default="true">
+          <visual/>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1853_Q5_STR">
+      <strings>
+        <string default="true">
+          <visual/>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_DELAYS_STR">
+      <strings>
+        <string default="true">
+          <visual>事件导致交通堵塞</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_DELAYS_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处因事件导致交通堵塞。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_DELAYS_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处因事件导致交通堵塞。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RAMP_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>出口匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RAMP_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处出口匝道关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RAMP_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处出口匝道关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RAMP_REOPEN_STR">
+      <strings>
+        <string default="true">
+          <visual>出口匝道重开</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RAMP_REOPEN_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处出口匝道重开。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RAMP_REOPEN_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处出口匝道重开。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RESTRICTION_STR">
+      <strings>
+        <string default="true">
+          <visual>出口限制</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RESTRICTION_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有出口限制。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXIT_RESTRICTION_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有出口限制。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXTREME_COLD_STR">
+      <strings>
+        <string default="true">
+          <visual>严寒</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXTREME_COLD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处严寒。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXTREME_COLD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处严寒。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXTREME_HEAT_STR">
+      <strings>
+        <string default="true">
+          <visual>炎热</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXTREME_HEAT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处炎热。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EXTREME_HEAT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处炎热。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FALLEN_PWR_CABLE_STR">
+      <strings>
+        <string default="true">
+          <visual>掉落电缆</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FALLEN_PWR_CABLE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有掉落电缆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FALLEN_PWR_CABLE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有掉落电缆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FALLING_ROCKS_STR">
+      <strings>
+        <string default="true">
+          <visual>落石</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FALLING_ROCKS_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有落石。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FALLING_ROCKS_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有落石。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FIRE_STR">
+      <strings>
+        <string default="true">
+          <visual>火灾</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FIRE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有火灾。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FIRE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有火灾。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FLOODING_STR">
+      <strings>
+        <string default="true">
+          <visual>洪水</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FLOODING_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有洪水。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FLOODING_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有洪水。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FRESH_SNOW_STR">
+      <strings>
+        <string default="true">
+          <visual>初雪</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FRESH_SNOW_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处初雪。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FRESH_SNOW_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处初雪。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FUEL_STATION_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>加油站关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FUEL_STATION_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处加油站关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_FUEL_STATION_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处加油站关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_GAS_LEAK_STR">
+      <strings>
+        <string default="true">
+          <visual>燃气泄露</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_GAS_LEAK_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处燃气泄露。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_GAS_LEAK_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处燃气泄露。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_DRV_CNDTN_STR">
+      <strings>
+        <string default="true">
+          <visual>危险驾驶条件</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_DRV_CNDTN_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有危险驾驶条件。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_DRV_CNDTN_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有危险驾驶条件。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_RD_CNDTN_STR">
+      <strings>
+        <string default="true">
+          <visual>危险道路条件</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_RD_CNDTN_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有危险道路条件。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_RD_CNDTN_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有危险道路条件。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_WEATHER_STR">
+      <strings>
+        <string default="true">
+          <visual>危险天气</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_WEATHER_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有危险天气。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HAZARD_WEATHER_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有危险天气。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HEAVY_TRAFFIC_STR">
+      <strings>
+        <string default="true">
+          <visual>交通拥挤</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HEAVY_TRAFFIC_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处交通拥挤。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_HEAVY_TRAFFIC_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处交通拥挤。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ICE_PATCHES_STR">
+      <strings>
+        <string default="true">
+          <visual>局部结冰</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ICE_PATCHES_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处局部结冰。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ICE_PATCHES_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处局部结冰。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ICE_STR">
+      <strings>
+        <string default="true">
+          <visual>冰</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ICE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有冰。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ICE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有冰。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_IMPORTANT_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>重要信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_IMPORTANT_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有重要信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_IMPORTANT_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有重要信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_INCIDENT_STR">
+      <strings>
+        <string default="true">
+          <visual>事故</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_INCIDENT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处发生事故。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_INCIDENT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处发生事故。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANDSLIDE_STR">
+      <strings>
+        <string default="true">
+          <visual>滑坡</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANDSLIDE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处滑坡。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANDSLIDE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处滑坡。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANES_CLOSED_STR">
+      <strings>
+        <string default="true">
+          <visual>多车道封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANES_CLOSED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处多车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANES_CLOSED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处多车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANE_CLOSED_STR">
+      <strings>
+        <string default="true">
+          <visual>单车道封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANE_CLOSED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处单车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANE_CLOSED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处单车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANE_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>车道信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANE_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有车道信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LANE_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有车道信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LEFT_LANE_CLOSED_STR">
+      <strings>
+        <string default="true">
+          <visual>左车道封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LEFT_LANE_CLOSED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处左车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_LEFT_LANE_CLOSED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处左车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MAINTENANCE_VHCL_STR">
+      <strings>
+        <string default="true">
+          <visual>养护车辆</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MAINTENANCE_VHCL_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有养护车辆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MAINTENANCE_VHCL_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有养护车辆。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MAJOR_EVENT_STR">
+      <strings>
+        <string default="true">
+          <visual>重大活动</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MAJOR_EVENT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有重大活动。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MAJOR_EVENT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有重大活动。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MESSAGE_CANCEL_STR">
+      <strings>
+        <string default="true">
+          <visual>消息已取消</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MESSAGE_CANCEL_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处消息已取消。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MESSAGE_CANCEL_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处消息已取消。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MILITARY_TRAINING_STR">
+      <strings>
+        <string default="true">
+          <visual>军事训练</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MILITARY_TRAINING_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处在执行军事训练。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_MILITARY_TRAINING_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处在执行军事训练。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NARROW_LANES_STR">
+      <strings>
+        <string default="true">
+          <visual>车道变窄</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NARROW_LANES_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处车道变窄。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NARROW_LANES_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处车道变窄。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NEW_RD_LAYOUT_STR">
+      <strings>
+        <string default="true">
+          <visual>新道路布局</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NEW_RD_LAYOUT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处为新道路布局。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NEW_RD_LAYOUT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处为新道路布局。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NORMAL_TRAFFIC_STR">
+      <strings>
+        <string default="true">
+          <visual>交通正常</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NORMAL_TRAFFIC_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处交通正常。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NORMAL_TRAFFIC_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处交通正常。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NO_PASSING_ZONE_STR">
+      <strings>
+        <string default="true">
+          <visual>禁止超车区</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NO_PASSING_ZONE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处为禁止超车区。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NO_PASSING_ZONE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处为禁止超车区。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NO_VENTILATION_TUNNEL_STR">
+      <strings>
+        <string default="true">
+          <visual>隧道内不通风</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NO_VENTILATION_TUNNEL_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处隧道内不通风。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_NO_VENTILATION_TUNNEL_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处隧道内不通风。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_OBJECT_ON_RD_STR">
+      <strings>
+        <string default="true">
+          <visual>路上有物体</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_OBJECT_ON_RD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处路上有物体。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_OBJECT_ON_RD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处路上有物体。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_OBJECT_THOWN_ON_RD_STR">
+      <strings>
+        <string default="true">
+          <visual>警告：路上有抛物</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_OBJECT_THOWN_ON_RD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>警告：前方 &lt;DIST&gt; 处路上有抛物。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_OBJECT_THOWN_ON_RD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>警告：距离 &lt;DIST&gt; 处路上有抛物。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ONE_LANE_OPEN_STR">
+      <strings>
+        <string default="true">
+          <visual>单车道开放</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ONE_LANE_OPEN_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处单车道开放。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ONE_LANE_OPEN_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处单车道开放。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_OUT_OF_DATE">
+      <strings>
+        <string default="true">
+          <visual>&lt;TIME&gt; 接收信号差</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PARALLEL_RD_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>并行路封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PARALLEL_RD_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处并行路封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PARALLEL_RD_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处并行路封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PARKING_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>停车信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PARKING_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有停车信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PARKING_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有停车信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PEOPLE_ON_ROAD_STR">
+      <strings>
+        <string default="true">
+          <visual>路上有人</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PEOPLE_ON_ROAD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处路上有人。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PEOPLE_ON_ROAD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处路上有人。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PERIODIC_CLOSURE_STR">
+      <strings>
+        <string default="true">
+          <visual>定期关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PERIODIC_CLOSURE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处定期关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_PERIODIC_CLOSURE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处定期关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_POLICE_ACTIVITY_STR">
+      <strings>
+        <string default="true">
+          <visual>警察执勤</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_POLICE_ACTIVITY_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有警察执勤。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_POLICE_ACTIVITY_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有警察执勤。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_POWER_FAILURE_STR">
+      <strings>
+        <string default="true">
+          <visual>电力故障</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_POWER_FAILURE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有电力故障。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_POWER_FAILURE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有电力故障。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAILRD_CROSS_NRML_STR">
+      <strings>
+        <string default="true">
+          <visual>铁路交叉正常</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAILRD_CROSS_NRML_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处铁路交叉正常。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAILRD_CROSS_NRML_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual/>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAILRD_CROSS_PRBLM_STR">
+      <strings>
+        <string default="true">
+          <visual>铁路交叉问题</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAILRD_CROSS_PRBLM_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处铁路交叉发生问题。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAILRD_CROSS_PRBLM_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处铁路交叉发生问题。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAMPS_CLOSED_STR">
+      <strings>
+        <string default="true">
+          <visual>匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAMPS_CLOSED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处匝道关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RAMPS_CLOSED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处匝道关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RECALC_RECALCULATING_STR_M">
+      <strings>
+        <string default="true">
+          <visual>重新计算</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RECALC_ROAD_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方道路关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RECALC_SEVERE_TRAFFIC_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方严重交通堵塞</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RECEIVING_TRAFFIC">
+      <strings>
+        <string default="true">
+          <visual>正在接收交通信息...</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RESTAURANT_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>餐馆关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RESTAURANT_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处餐馆关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RESTAURANT_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处餐馆关闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RIGHT_LANE_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>右车道封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RIGHT_LANE_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处右车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_RIGHT_LANE_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处右车道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ROAD_CLOSED_STR">
+      <strings>
+        <string default="true">
+          <visual>道路封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ROAD_CLOSED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处道路封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ROAD_CLOSED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处道路封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ROAD_REOPENED_STR">
+      <strings>
+        <string default="true">
+          <visual>道路重开</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ROAD_REOPENED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处道路重开。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_ROAD_REOPENED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处道路重开。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SECURITY_ALERT_STR">
+      <strings>
+        <string default="true">
+          <visual>安全警示</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SECURITY_ALERT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有安全警示。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SECURITY_ALERT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有安全警示。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SHOULDER_CLSD_STR">
+      <strings>
+        <string default="true">
+          <visual>路肩封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SHOULDER_CLSD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处路肩封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SHOULDER_CLSD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处路肩封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SINKHOLE_STR">
+      <strings>
+        <string default="true">
+          <visual>排水口</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SINKHOLE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有排水口。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SINKHOLE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有排水口。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLIPPERY_ROAD_STR">
+      <strings>
+        <string default="true">
+          <visual>易滑道路</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLIPPERY_ROAD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处为易滑道路。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLIPPERY_ROAD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处为易滑道路。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLOW_TRAFFIC_STR">
+      <strings>
+        <string default="true">
+          <visual>车流缓慢</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLOW_TRAFFIC_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处车流缓慢。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLOW_TRAFFIC_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处车流缓慢。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLOW_VEHICLE_STR">
+      <strings>
+        <string default="true">
+          <visual>车辆行驶缓慢</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLOW_VEHICLE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处车辆行驶缓慢。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SLOW_VEHICLE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处车辆行驶缓慢。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SMOG_ALERT_STR">
+      <strings>
+        <string default="true">
+          <visual>烟雾警示</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SMOG_ALERT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有烟雾警示。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SMOG_ALERT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有烟雾警示。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SNGL_LAN_TRF_STR">
+      <strings>
+        <string default="true">
+          <visual>单车道通行</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SNGL_LAN_TRF_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处单车道通行。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SNGL_LAN_TRF_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处单车道通行。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SNOW_PATCHES_STR">
+      <strings>
+        <string default="true">
+          <visual>局部有雪</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SNOW_PATCHES_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处局部有雪。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SNOW_PATCHES_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处局部有雪。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SPILLED_LOADS_STR">
+      <strings>
+        <string default="true">
+          <visual>货物散落</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SPILLED_LOADS_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处货物散落。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SPILLED_LOADS_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处货物散落。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SPORTING_EVENT_STR">
+      <strings>
+        <string default="true">
+          <visual>体育活动</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SPORTING_EVENT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有体育活动。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SPORTING_EVENT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有体育活动。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SRVC_AREA_CNGSTD_STR">
+      <strings>
+        <string default="true">
+          <visual>服务区拥堵</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SRVC_AREA_CNGSTD_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处服务区拥堵。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_SRVC_AREA_CNGSTD_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处服务区拥堵。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STATIONARY_TRAFFIC_STR">
+      <strings>
+        <string default="true">
+          <visual>交通停顿</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STATIONARY_TRAFFIC_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处交通停顿。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STATIONARY_TRAFFIC_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处交通停顿。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STOP_GO_TRAFFIC_STR">
+      <strings>
+        <string default="true">
+          <visual>车辆走走停停</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STOP_GO_TRAFFIC_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处车辆走走停停。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STOP_GO_TRAFFIC_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处车辆走走停停。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STRIKE_STR">
+      <strings>
+        <string default="true">
+          <visual>罢工</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STRIKE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有罢工。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_STRIKE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有罢工。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TEMP_TRAFFIC_LIGHT_STR">
+      <strings>
+        <string default="true">
+          <visual>临时信号灯</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TEMP_TRAFFIC_LIGHT_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有临时信号灯。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TEMP_TRAFFIC_LIGHT_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有临时信号灯。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TEST_MESSAGE_STR">
+      <strings>
+        <string default="true">
+          <visual>测试消息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TEST_MESSAGE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有测试消息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TEST_MESSAGE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有测试消息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_THREE_LANE_OPEN_STR">
+      <strings>
+        <string default="true">
+          <visual>三车道开放</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_THREE_LANE_OPEN_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处三车道开放。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_THREE_LANE_OPEN_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处三车道开放。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TOLL_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>收费站信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TOLL_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有收费站信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TOLL_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有收费站信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TORNADO_STR">
+      <strings>
+        <string default="true">
+          <visual>龙卷风</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TORNADO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有龙卷风。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TORNADO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有龙卷风。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC">
+      <strings>
+        <string default="true">
+          <visual>交通信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_PROBLEM_STR">
+      <strings>
+        <string default="true">
+          <visual>交通问题</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_PROBLEM_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有交通问题。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_PROBLEM_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有交通问题。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_ACCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>事故</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>道路封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CONDITION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>危险路况</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CONST_STR_M">
+      <strings>
+        <string default="true">
+          <visual>施工</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_ACCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处发生事故</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处道路封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CONDITION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处路况危险</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CONST_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处施工</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_ENTRY_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处入口匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_EXIT_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处出口匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_HEAVY_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 出现交通拥挤</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_INCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处发生事件</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_INFO_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有交通信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_QUEUING_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 出现交通走走停停</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_REDUCED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处车道减少</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_SLOW_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处车辆行驶缓慢</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_STOPPED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 出现交通堵塞</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_ENTRY_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>入口匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_EXIT_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>出口匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_HEAVY_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通拥挤</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_INCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>事件</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_INFO_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_QUEUING_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通走走停停</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_REDUCED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>车道减少</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_SLOW_STR_M">
+      <strings>
+        <string default="true">
+          <visual>车辆行驶缓慢</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_STOPPED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>交通堵塞</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_ACCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有事故</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处道路封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CONDITION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处路况危险</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CONST_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有施工</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_ENTRY_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 外入口匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_EXIT_CLOSED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 外出口匝道关闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_HEAVY_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 处出现交通拥挤</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_INCIDENT_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有事件</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_INFO_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有交通信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_QUEUING_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 处出现交通走走停停</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_REDUCED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处车道减少</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_SLOW_STR_M">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处车辆行驶缓慢</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_STOPPED_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;DIST&gt; 处出现交通堵塞</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_LOCATION_STR_M">
+      <strings>
+        <string default="true">
+          <visual>&lt;ROAD2&gt; 的 &lt;ROAD1&gt;</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_DELAY_AND_DIST_STR_M">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处堵塞 &lt;TIME&gt;</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_DELAY_STR_M">
+      <strings>
+        <string default="true">
+          <visual>堵塞 &lt;TIME&gt;</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_SUMMARY_STR_M">
+      <strings>
+        <string default="true">
+          <visual>路上堵塞 &lt;DELAY_COUNT&gt; 次，总共 &lt;TIME&gt;</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TOP_BAR">
+      <strings>
+        <string default="true">
+          <visual>交通信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRANSIT_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>公交信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRANSIT_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有公交信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRANSIT_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有公交信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAVEL_RESTRICTION_STR">
+      <strings>
+        <string default="true">
+          <visual>旅行限制</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAVEL_RESTRICTION_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有旅行限制。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAVEL_RESTRICTION_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有旅行限制。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_CONGESTION_STR">
+      <strings>
+        <string default="true">
+          <visual>交通堵塞</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_CONGESTION_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处交通堵塞。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_CONGESTION_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处交通堵塞。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_RESTRICTIONS_STR">
+      <strings>
+        <string default="true">
+          <visual>交通限制</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_RESTRICTIONS_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有交通限制。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_RESTRICTIONS_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有交通限制。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SERVICE_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>交通服务信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SERVICE_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有交通服务信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SERVICE_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有交通服务信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SIGNAL_FAILURE_STR">
+      <strings>
+        <string default="true">
+          <visual>交通信号故障</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SIGNAL_FAILURE_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有交通信号故障。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SIGNAL_FAILURE_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有交通信号故障。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SIGNAL_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>交通信号信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SIGNAL_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有交通信号信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRF_SIGNAL_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有交通信号信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRIP_TIME_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>行程时间信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRIP_TIME_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有行程时间信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRIP_TIME_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有行程时间信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TUNNEL_CLOSED_STR">
+      <strings>
+        <string default="true">
+          <visual>隧道封闭</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TUNNEL_CLOSED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处隧道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TUNNEL_CLOSED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处隧道封闭。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TWO_LANE_OPEN_STR">
+      <strings>
+        <string default="true">
+          <visual>双车道开放</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TWO_LANE_OPEN_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处双车道开放。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_TWO_LANE_OPEN_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处双车道开放。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_UPDATE_MIN_AGO">
+      <strings>
+        <string default="true">
+          <visual>交通信息于 &lt;TIME&gt; 前更新</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_UP_TO_DATE">
+      <strings>
+        <string default="true">
+          <visual>交通信息已是最新</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VEHICLE_RESTRICTION_STR">
+      <strings>
+        <string default="true">
+          <visual>车辆限制</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VEHICLE_RESTRICTION_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有车辆限制。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VEHICLE_RESTRICTION_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有车辆限制。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VISIBILITY_REDUCED_STR">
+      <strings>
+        <string default="true">
+          <visual>能见度下降</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VISIBILITY_REDUCED_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处能见度下降。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VISIBILITY_REDUCED_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处能见度下降。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VOLCANO_ERUPTION_STR">
+      <strings>
+        <string default="true">
+          <visual>警告：火山喷发</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VOLCANO_ERUPTION_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>警告：前方 &lt;DIST&gt; 处火山喷发。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_VOLCANO_ERUPTION_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>警告：距离 &lt;DIST&gt; 处火山喷发。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_WEATHER_INFO_STR">
+      <strings>
+        <string default="true">
+          <visual>天气信息</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_WEATHER_INFO_STR_AHEAD">
+      <strings>
+        <string default="true">
+          <visual>前方 &lt;DIST&gt; 处有天气信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_WEATHER_INFO_STR_AWAY">
+      <strings>
+        <string default="true">
+          <visual>距离 &lt;DIST&gt; 处有天气信息。</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0101_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>交通严重拥堵</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0108_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>交通轻微拥堵</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0201_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q起)交通事故</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0207_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q起)化学制品溢出事故</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0213_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q起)车辆着火</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0406_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(第Q)入口匝道关闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0407_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(第Q)出口匝道关闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0409_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>匝道限制</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0492_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>无机动车</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0493_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>限制</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0505_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>2条车道关闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0506_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>3条车道关闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0641_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>1条车道关闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0701_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q组)道路施工</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0703_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q组)道路养护</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0707_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q座)桥梁养护施工</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0735_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>因(Q起)道路施工关闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0740_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q组)道路施工，2条车道关闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0806_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q组)总水管施工</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0807_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>(Q组)煤气总管施工</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0907_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>洪水</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0914_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>塌方</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0915_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>地震破坏</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0917_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>沉陷</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0920_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>煤气泄漏</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0921_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>严重火灾</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0922_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>车行道上有动物</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0975_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>结冰</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0976_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>泥石流</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0980_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>受道路障碍物阻塞</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_0982_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>受道路上散落物阻塞</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1013_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>积雪(Q百米以上)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1044_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>路上有机油</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1101_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>强降雪</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1104_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>降雪</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1106_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>冰雹(能见度降至Q)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1108_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>雷雨(能见度降至Q)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1109_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>强降雨</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1112_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>降雨</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1202_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>飓风(Q)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1203_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>大风(Q)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1304_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>雾（能见度降至Q)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1310_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>吹尘(能见度降至Q)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1326_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>沙尘暴(能见度降至Q)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1472_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>车道上聚集人群</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1501_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>重大事件</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1504_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>节日</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1505_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>展览</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1510_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>游行</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1514_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>公众骚乱</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1709_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>从行驶车辆上泄漏</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_RECALC_RECALCULATING_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>正在重新计算</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_RECALC_ROAD_CLOSED_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方道路封闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_RECALC_SEVERE_TRAFFIC_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方严重交通事故</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_SPEED_LIMIT_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>速度限制</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_SUP_INFO_242_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>从</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_SUP_INFO_243_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前往</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_SUP_INFO_244_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>进入</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_ACCIDENT_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>交通事故</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CLOSED_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>车道封闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CONDITION_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>危险注意</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_CONST_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>道路施工</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_ACCIDENT_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方 &amp;lt;DIST&amp;gt;交通事故</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CLOSED_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方 &amp;lt;DIST&amp;gt;道路封闭</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CONDITION_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方 &amp;lt;DIST&amp;gt;危险警示</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_CONST_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方 &amp;lt;DIST&amp;gt;道路施工</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_REDUCED_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方 &amp;lt;DIST&amp;gt;车道缩减</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_DIST_SLOW_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方 &amp;lt;DIST&amp;gt;车速缓慢</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_REDUCED_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>车道缩减</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AHEAD_SLOW_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>车速缓慢</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_ACCIDENT_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>交通事故距离 &amp;lt;DIST&amp;gt;</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CLOSED_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>道路封闭距离 &amp;lt;DIST&amp;gt;</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CONDITION_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>危险注意距离 &amp;lt;DIST&amp;gt;</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_CONST_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>道路施工距离 &amp;lt;DIST&amp;gt;</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_REDUCED_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>车道缩减距离 &amp;lt;DIST&amp;gt;</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_AWAY_DIST_SLOW_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>车速缓慢距离 &amp;lt;DIST&amp;gt;</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_LOCATION_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>&amp;lt;ROAD1&amp;gt; (&amp;lt;ROAD2&amp;gt;)</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_DELAY_AND_DIST_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>前方&amp;lt;DIST&amp;gt处;将会延迟&amp;lt;TIME&amp;gt;</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_DELAY_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>延迟&amp;lt;TIME&amp;gt;抵达</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_TRAFFIC_TEXT_RTE_SUMMARY_STR_M">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>此航程延迟&amp;lt;DELAY_COUNT&amp;gt;, 全程花费&amp;lt;TIME&amp;gt;</visual>
+        </string>
+      </strings>
+    </entry>
+    <entry handle="STR_TXT_TRF_EVENT_1156_Q0_STR">
+      <usage visual="true"/>
+      <strings>
+        <string default="true">
+          <visual>大雨(可能性Q)</visual>
+        </string>
+      </strings>
+    </entry>
+</catalog>
