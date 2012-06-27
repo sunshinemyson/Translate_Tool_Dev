@@ -231,6 +231,16 @@
     <string>Change</string>
     <description>WhereAmI Page Toolbar Text</description>
   </entry>
+  <entry handle="SEARCH_SORT_BY_DISTANCE" translate="true" fixed_width="true">
+    <string>Distance Search</string>
+    <description>Search sorting mode - distance sorting. (for poi and searchbar search)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SEARCH_SORT_BY_SMART" translate="true" fixed_width="true">
+    <string>Smart Search</string>
+    <description>Search sorting mode - smart sorting. (for poi and searchbar search)</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
   <entry handle="SEARCH_BY_DISTANCE" translate="true" fixed_width="true">
     <string>Oversea POI Search</string>
     <description>for japan oversea search to search poi</description>
@@ -1118,7 +1128,7 @@
     <string>Update Error</string>
     <description>DR Software Update Error</description>
     <output-file>GUI_Handle.hpp</output-file>
-  </entry>  
+  </entry>
   <entry handle="DR_MENU_GSENSOR_SETTING" translate="true" fixed_width="false">
     <string>G-Sensor Setting</string>
     <description>Driving recorder G-Sensor Sensitivity</description>
@@ -1733,5 +1743,109 @@
   <entry handle="OV_SPD_ALT_NEVER" translate="true" fixed_width="false">
     <string>never alert</string>
     <description>never alert even when driving speed exceed the limit speed</description>
+  </entry>
+  <entry handle="ECO_HIGHWAY_FUEL_ECONOMY_DETAIL_PROMPT" translate="true" fixed_width="true">
+    <string>Enter Highway Fuel Economy - %1 per %2</string>
+    <description>Keyboard help text. EcoRoute. Appears where highway fuel economy is entered. %1 is the currency symbol for the locale and %2 is the abbreviation for gallons or liters depending on locale.</description>
+    <output-file>GUI_HandleFuelSaver.hpp</output-file>
+  </entry>
+  <entry handle="ECO_HIGHWAY_FUEL_ECONOMY_PROMPT" translate="true" fixed_width="true">
+    <string>Enter Highway Fuel Economy</string>
+    <description>Keyboard help text. EcoRoute. Appears where highway fuel economy is entered.</description>
+    <output-file>GUI_HandleFuelSaver.hpp</output-file>
+  </entry>
+  <entry handle="ECO_CITY_FUEL_ECONOMY_DETAIL_PROMPT" translate="true" fixed_width="true">
+    <string>Enter City Fuel Economy - %1 per %2</string>
+    <description>Keyboard help text. EcoRoute. Appears where city fuel economy is entered. %1 is the currency symbol for the locale and %2 is the abbreviation for gallons or liters depending on locale.</description>
+    <output-file>GUI_HandleFuelSaver.hpp</output-file>
+  </entry>
+  <entry handle="ECO_CITY_FUEL_ECONOMY_PROMPT" translate="true" fixed_width="true">
+    <string>Enter City Fuel Economy</string>
+    <description>Keyboard help text. EcoRoute. Appears where city fuel economy is entered.</description>
+    <output-file>GUI_HandleFuelSaver.hpp</output-file>
+  </entry>
+  <entry handle="ECO_KM" translate="true" fixed_width="true">
+    <string>km</string>
+    <description>Abbreviation for kilometer used in fuel economy prompts. EcoRoute.</description>
+    <output-file>GUI_HandleFuelSaver.hpp</output-file>
+  </entry>
+  <entry handle="RADAR" translate="true" fixed_width="false">
+    <string>Radar</string>
+    <description>Title in radar detector page</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_BTN_SIMULATION" translate="true" fixed_width="false">
+    <string>Alarm Simulation</string>
+    <description>String for Button Simulation in radar detector page</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_SMART_ALARM_NOTICE" translate="true" fixed_width="false">
+    <string>Control by default road speed limit</string>
+    <description>String for speed threshold in radar detector page</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_SMART_ALARM" translate="true" fixed_width="false">
+    <string>Smart Alarm</string>
+    <description>String for smart alarm check box in radar detector page</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_CUSTOMIZED_SPEED_ALARM" translate="true" fixed_width="false">
+    <string>Speed Control Alarm</string>
+    <description>String for enabled check box in radar detector page</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_MUTE" translate="true" fixed_width="false">
+    <string>Mute Radar Alert</string>
+    <description>String for Mute Radar in radar  page</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_SIGNAL" translate="true" fixed_width="false">
+    <string>Radar signal</string>
+    <description>Alert Radar signal</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="GPS_SIGNAL_LOSE" translate="true" fixed_width="false">
+    <string>Lost satellite</string>
+    <description>Lose GPS signal</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SEARCH_RADAR_SIGNAL" translate="true" fixed_width="false">
+    <string>Search for radar signal</string>
+    <description>Search for radar signal</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_SIGNAL_STR" translate="true" fixed_width="false">
+    <string>Radar signal</string>
+    <description>Alert Radar signal</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="LASER_SIGNAL_STR" translate="true" fixed_width="false">
+    <string>Laser signal</string>
+    <description>Alert Laser signal</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_MUTE_DISABLE_STR" translate="true" fixed_width="false">
+    <string>Radar Mute disable</string>
+    <description>Radar Mute disable</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_MUTE_ENABLE_STR" translate="true" fixed_width="false">
+    <string>Radar Mute enable</string>
+    <description>Radar Mute enable</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_CABLE_NOT_CURRENTLY_CONNECTED" translate="true" fixed_width="false">
+    <string>A radar receiver accessory is required to received radar signals.</string>
+    <description>Radar cable not currently connected</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="RADAR_SETTING_TOOL_HNDL" translate="true" fixed_width="false">
+    <string>Radar alarm settings</string>
+    <description>Radar setting tool description</description>
+    <output-file>GUI_Handle.hpp</output-file>
+  </entry>
+  <entry handle="SIMULATION_GO" translate="true" fixed_width="true">
+    <string>Simulation Go</string>
+    <description>a string of simulation go button</description>
   </entry>
  </catalog>

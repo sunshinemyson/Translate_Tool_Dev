@@ -332,6 +332,48 @@
       </strings>
       <usage speechrec="true" tts="true" visual="true"/>
     </entry>
+    <entry handle="PAGEDOWN">
+        <strings>
+            <string default="true">
+                <visual>下一頁</visual>
+                <pronunciation>#c~ja51_ji35_jE51#</pronunciation>
+            </string>
+            <string>
+                <visual>向下</visual>
+                <pronunciation>#c~jA51nK.c~ja51#</pronunciation>
+            </string>
+            <string>
+                <visual>後一頁</visual>
+                <pronunciation>#Xo51&amp;U.ji55.jE51#</pronunciation>
+            </string>
+        </strings>
+        <usage speechrec="true" tts="true" visual="true"/>
+    </entry>
+    <entry handle="PAGEUP">
+        <strings>
+            <string default="true">
+                <visual>上一頁</visual>
+                <pronunciation>#s+A51nK_ji35_jE51#</pronunciation>
+            </string>
+            <string>
+                <visual>向上</visual>
+                <pronunciation>#c~jA51nK.s+A51nK#</pronunciation>
+            </string>
+            <string>
+                <visual>前一頁</visual>
+                <pronunciation>#t&amp;c~{jE35n.ji35_jE51#</pronunciation>
+            </string>
+        </strings>
+        <usage speechrec="true" tts="true" visual="true"/>
+    </entry>
+    <entry handle="PROCESSING">
+      <strings>
+        <string default="true">
+          <visual>處理中</visual>
+        </string>
+      </strings>
+      <usage speechrec="true" tts="true" visual="true"/>
+    </entry>
     <entry handle="BRIGHTNESS">
       <strings>
         <string default="true">
@@ -874,6 +916,14 @@
         <string>
           <visual>查找城镇</visual>
           <pronunciation>#t&amp;s+a55.t&amp;s+a214&amp;U.t&amp;s+{$35nK.t&amp;s+$51n#</pronunciation>
+        </string>
+      </strings>
+      <usage speechrec="true" tts="true" visual="true"/>
+    </entry>
+    <entry handle="MENU_INTERSECTION">
+      <strings>
+        <string default="true">
+          <visual>交叉路口</visual>
         </string>
       </strings>
       <usage speechrec="true" tts="true" visual="true"/>
@@ -1573,7 +1623,7 @@
     <entry handle="PRMT_VDE_WHAT_IS_SECOND_STREET_IN">
       <strings>
         <string default="true">
-          <visual>在 %1 的第二条道路名称</visual>
+          <visual>與 %1 的交叉路口</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -2264,6 +2314,15 @@
       <usage speechrec="true" tts="true" visual="true"/>
     </entry>
     <entry handle="SPEAK_CATEGORY_NAME">
+      <strings>
+        <string default="true">
+          <visual>请说类别名称</visual>
+          <pronunciation>#t&amp;c~{i214nK.s+wO55.le51&amp;I.pjE35.mi35nK.t&amp;s+{$55nK#</pronunciation>
+        </string>
+      </strings>
+      <usage speechrec="true" tts="true" visual="true"/>
+    </entry>
+    <entry handle="PROMPT_SPEAK_CATEGORY">
       <strings>
         <string default="true">
           <visual>请说类别名称</visual>
@@ -7317,7 +7376,7 @@
     <entry handle="APRIL_ABBR">
       <strings>
         <string default="true">
-          <visual>04</visual>
+          <visual>4 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -7477,7 +7536,7 @@
     <entry handle="AUGUST_ABBR">
       <strings>
         <string default="true">
-          <visual>08</visual>
+          <visual>8 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -7582,6 +7641,14 @@
       <strings>
         <string default="true">
           <visual>返回</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="EXIT">
+      <strings>
+        <string default="true">
+          <visual>离开</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -9869,7 +9936,7 @@
     <entry handle="DECEMBER_ABBR">
       <strings>
         <string default="true">
-          <visual>12</visual>
+          <visual>12 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -10021,7 +10088,7 @@
     <entry handle="DESCRIPTION_MAP_AND_VEHICLE">
       <strings>
         <string default="true">
-          <visual>地图、车辆和仪表板选项</visual>
+          <visual>地图和车辆选项</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -10157,7 +10224,7 @@
     <entry handle="DIRECTIONS_TO_ME">
       <strings>
         <string default="true">
-          <visual>我的方向</visual>
+          <visual>路径至当前位置</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -11469,7 +11536,7 @@
     <entry handle="FAVORITE_SEARCH">
       <strings>
         <string default="true">
-          <visual>收藏夹搜索</visual>
+          <visual>关键字搜索</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -11477,7 +11544,7 @@
     <entry handle="FAVORITE_SEARCHES">
       <strings>
         <string default="true">
-          <visual>收藏夹搜索</visual>
+          <visual>关键字搜索</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -11501,7 +11568,7 @@
     <entry handle="FEBRUARY_ABBR">
       <strings>
         <string default="true">
-          <visual>02</visual>
+          <visual>2 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -12413,7 +12480,7 @@
     <entry handle="FIND_TRIP_PLANNER">
       <strings>
         <string default="true">
-          <visual>Trip Planner</visual>
+          <visual>行程规划</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -13157,7 +13224,7 @@
     <entry handle="JANUARY_ABBR">
       <strings>
         <string default="true">
-          <visual>01</visual>
+          <visual>1 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -13197,7 +13264,7 @@
     <entry handle="JULY_ABBR">
       <strings>
         <string default="true">
-          <visual>07</visual>
+          <visual>7 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -13205,7 +13272,7 @@
     <entry handle="JUNE_ABBR">
       <strings>
         <string default="true">
-          <visual>06</visual>
+          <visual>6 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -14085,7 +14152,7 @@
     <entry handle="MARCH_ABBR">
       <strings>
         <string default="true">
-          <visual>03</visual>
+          <visual>3 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -14109,7 +14176,7 @@
     <entry handle="MAY_ABBR">
       <strings>
         <string default="true">
-          <visual>05</visual>
+          <visual>5 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -14533,7 +14600,7 @@
     <entry handle="NORTHEAST_ABBR">
       <strings>
         <string default="true">
-          <visual>东</visual>
+          <visual>东北</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -14541,7 +14608,7 @@
     <entry handle="NORTHWEST_ABBR">
       <strings>
         <string default="true">
-          <visual>西</visual>
+          <visual>西北</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -14565,7 +14632,7 @@
     <entry handle="NOVEMBER_ABBR">
       <strings>
         <string default="true">
-          <visual>11</visual>
+          <visual>11 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -14757,7 +14824,7 @@
     <entry handle="OCTOBER_ABBR">
       <strings>
         <string default="true">
-          <visual>10</visual>
+          <visual>10 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -15213,7 +15280,7 @@
     <entry handle="POIS_MAP_LAYERS">
       <strings>
         <string default="true">
-          <visual>沿途位置</visual>
+          <visual>沿途兴趣点图标</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -15589,7 +15656,7 @@
     <entry handle="RECENT">
       <strings>
         <string default="true">
-          <visual>最近</visual>
+          <visual>最近查找</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -16445,7 +16512,7 @@
     <entry handle="SEPTEMBER_ABBR">
       <strings>
         <string default="true">
-          <visual>09</visual>
+          <visual>9 月</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -16645,7 +16712,7 @@
     <entry handle="SOUTHEAST_ABBR">
       <strings>
         <string default="true">
-          <visual>东</visual>
+          <visual>东南</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -16653,7 +16720,7 @@
     <entry handle="SOUTHWEST_ABBR">
       <strings>
         <string default="true">
-          <visual>西</visual>
+          <visual>西南</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -17085,7 +17152,7 @@
     <entry handle="TOOLS_PICTURE_VIEWER">
       <strings>
         <string default="true">
-          <visual>图片查看器</visual>
+          <visual>图片浏览器</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -17093,7 +17160,7 @@
     <entry handle="TOOLS_RECENT_STOPS">
       <strings>
         <string default="true">
-          <visual>所到之处</visual>
+          <visual>航迹</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -21783,7 +21850,7 @@
     <entry handle="TXT_Convenience_Stores_STR">
       <strings>
         <string default="true">
-          <visual>便利站</visual>
+          <visual>便利站</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -25568,6 +25635,14 @@
       <strings>
         <string default="true">
           <visual>博物馆和画廊</visual>
+        </string>
+      </strings>
+      <usage visual="true"/>
+    </entry>
+    <entry handle="TXT_Enter_Others_STR">
+      <strings>
+        <string default="true">
+          <visual>其他</visual>
         </string>
       </strings>
       <usage visual="true"/>
@@ -31335,6 +31410,22 @@
             </strings>
             <usage visual="true"/>
         </entry>
+        <entry handle="SEARCH_SORT_BY_DISTANCE">
+            <strings>
+                <string default="true">
+                    <visual>距离搜寻</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="SEARCH_SORT_BY_SMART">
+            <strings>
+                <string default="true">
+                    <visual>匹配度搜寻</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
         <entry handle="SEARCH_BY_DISTANCE">
             <strings>
                 <string default="true">
@@ -31552,37 +31643,37 @@
             <usage visual="true"/>
         </entry>
         <entry handle="INTERSECTION_ROAD1_SEARCH">
-			<strings>
-				<string default="true">
-					<visual>输入道路名称</visual>
-				</string>
-			</strings>
-			<usage visual="true"/>
-		</entry>
+            <strings>
+                <string default="true">
+                    <visual>输入道路名称</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
         <entry handle="INTERSECTION_ROAD2_SEARCH">
-			<strings>
-				<string default="true">
-					<visual>输入道路二名称</visual>
-				</string>
-			</strings>
-			<usage visual="true"/>
-		</entry>
+            <strings>
+                <string default="true">
+                    <visual>输入道路二名称</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
         <entry handle="SELECT_ROAD1">
-			<strings>
-				<string default="true">
-					<visual>选取道路一</visual>
-				</string>
-			</strings>
-			<usage visual="true"/>
-		</entry>
+            <strings>
+                <string default="true">
+                    <visual>选取道路一</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
         <entry handle="SELECT_ROAD2">
-			<strings>
-				<string default="true">
-					<visual>选取道路二</visual>
-				</string>
-			</strings>
-			<usage visual="true"/>
-		</entry>
+            <strings>
+                <string default="true">
+                    <visual>选取道路二</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
         <entry handle="AVOID_SMART_IC">
             <strings>
                 <string default="true">
@@ -32707,6 +32798,176 @@
             <strings>
                 <string default="true">
                     <visual>_NOT_Trans_YET_:alert every 10 seconds</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="ECO_CITY_FUEL_ECONOMY_DETAIL_PROMPT">
+            <strings>
+                <string default="true">
+                    <visual>輸入市區油耗 - %1/%2</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="ECO_HIGHWAY_FUEL_ECONOMY_DETAIL_PROMPT">
+            <strings>
+                <string default="true">
+                    <visual>輸入高速公路油耗 - %1/%2</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="ECO_KM">
+            <strings>
+                <string default="true">
+                    <visual>公里</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+		        <entry handle="RADAR_SIGNAL">
+            <strings>
+                <string default="true">
+                    <visual>雷达信号</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="SIMULATION_GO">
+            <strings>
+                <string default="true">
+                    <visual>模拟导航</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+    </section>
+    <section name="ASIA">
+        <entry handle="RADAR_SMART_ALARM_NOTICE">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Control by default road speed limit</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="RADAR_SMART_ALARM">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Smart Alarm</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="RADAR_CUSTOMIZED_SPEED_ALARM">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Speed Control Alarm</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="RADAR_MUTE">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Mute Radar Alert</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="GPS_SIGNAL_LOSE">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Lost satellite</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="SEARCH_RADAR_SIGNAL">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Search for radar signal</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="RADAR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="RADAR_SIGNAL_STR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar signal</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="LASER_SIGNAL_STR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Laser signal</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="RADAR_MUTE_DISABLE_STR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar Mute disable</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_MUTE_ENABLE_STR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar Mute enable</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="RADAR_SETTING_TOOL_HNDL">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar alarm settings</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="RADAR_CABLE_NOT_CURRENTLY_CONNECTED">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:A radar receiver accessory is required to received radar signals.</visual>
+                </string>
+            </strings>
+            <usage visual="true" speechrec="true"/>
+        </entry>
+        <entry handle="ECO_CITY_FUEL_ECONOMY_PROMPT">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Enter City Fuel Economy</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="ECO_HIGHWAY_FUEL_ECONOMY_PROMPT">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Enter Highway Fuel Economy</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_BTN_SIMULATION">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Alarm Simulation</visual>
                 </string>
             </strings>
             <usage visual="true"/>

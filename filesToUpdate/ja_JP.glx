@@ -29890,4 +29890,191 @@
             <usage visual="true"/>
         </entry>
     </section>
+    <section name="ASIA">
+        <entry handle="ECO_CITY_FUEL_ECONOMY_DETAIL_PROMPT">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Enter City Fuel Economy - %1 per %2</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="ECO_CITY_FUEL_ECONOMY_PROMPT">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Enter City Fuel Economy</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="ECO_HIGHWAY_FUEL_ECONOMY_DETAIL_PROMPT">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Enter Highway Fuel Economy - %1 per %2</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="ECO_HIGHWAY_FUEL_ECONOMY_PROMPT">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Enter Highway Fuel Economy</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="ECO_KM">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:km</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="GPS_SIGNAL_LOSE">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Lost satellite</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="LASER_SIGNAL_STR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Laser signal</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_BTN_SIMULATION">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Alarm Simulation</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_CABLE_NOT_CURRENTLY_CONNECTED">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:A radar receiver accessory is required to received radar signals.</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_CUSTOMIZED_SPEED_ALARM">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Speed Control Alarm</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_MUTE">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Mute Radar Alert</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_MUTE_DISABLE_STR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar Mute disable</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_MUTE_ENABLE_STR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar Mute enable</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_SETTING_TOOL_HNDL">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar alarm settings</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_SIGNAL">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar signal</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_SIGNAL_STR">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Radar signal</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_SMART_ALARM">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Smart Alarm</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="RADAR_SMART_ALARM_NOTICE">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Control by default road speed limit</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="SEARCH_RADAR_SIGNAL">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Search for radar signal</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="SEARCH_SORT_BY_DISTANCE">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Distance Search</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="SEARCH_SORT_BY_SMART">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Smart Search</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+        <entry handle="SIMULATION_GO">
+            <strings>
+                <string default="true">
+                    <visual>_NOT_Trans_YET_:Simulation Go</visual>
+                </string>
+            </strings>
+            <usage visual="true"/>
+        </entry>
+    </section>
+
 </catalog>
